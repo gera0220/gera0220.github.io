@@ -1,0 +1,49 @@
+---
+title: "¿Por qué rayos debería leer esto?"
+author: "Gerardo Pérez"
+date: "2023-07-08"
+categories: 
+image: "image.jpg"
+---
+
+Una (no tan) breve historia de quién soy y por qué deberías leerme.
+
+------------------------------------------------------------------------
+
+Si decides que sólo quieres saber lo importante, puedes saltar para [acá](http://localhost:3466/posts/bienvenida/#por-qu%C3%A9-deber%C3%ADas-leer-esto).
+
+## ¿Quién soy? ¿De dónde salí?
+
+Hola, soy Gerardo Pérez. Un pasante de ingeniería matemática, al menos hasta que el papel que dice lo contrario llegue, con mucho cariño por toda el área de datos. Remontándome algunos años atrás, en la prepa para ser más precisos, llegó un punto en el que tenía que escoger una capacitación. Escogí contabilidad. Yo sé, esto ya suena mal, pero la cosa mejora un poco. Para mi poca fortuna decidieron que quedaría mejor en programación. Tras un largo rato de súplicas, me cambiaron a contabilidad.
+
+Llegada mi primera clase de contabilidad me di cuenta que no conocía a absolutamente a nadie y siendo justos, algo se sentía raro. Saliendo de la clase me encontré con unos amigos que me preguntaron por qué no entré a programación. Bueno, una mejor pregunta en ese punto era y ¿por qué rayos debería haberlo hecho? En ese punto, a pesar de no ser totalmente agnóstico a la computación, sin duda no me volvía loco por ella. Por otro lado, contabilidad tampoco me apasionaba, así que qué más daba cambiarme de área (de nuevo). Al menos allá conocería gente. Tras pedir misericordia luego de ya haberla pedido previamente, logré que me devolvieran a programación.
+
+No quisiera hacer más largo de lo que debería esto, pero con el paso del tiempo me di cuenta que me gustaba mucho saber de computadoras. Posteriormente descubrir la programación y lo que se podía hacer con ella. Además resultó que era bastante bueno, al menos para los estándares de la clase.
+
+Otro dato importante de mí es que desde pequeño me gustaban mucho las matemáticas. Supongo que cuando decidí entrar a contabilidad mi lógica fue que había números inmersos. Así entonces, además de escoger una capacitación tuve que escoger un área de especialidad. Me incliné por el área de Físico-Matemático. De ahí descubrí que probabilidad y estadística era algo que me apasionaba bastante.
+
+Al momento de escoger una carrera, como muchos, no tenía ni la menor idea. Al final me decanté por Ingeniería Matemática. Sonaba la opción lógica: era bueno para las mates y además en su retícula mencionaban mucho el uso de programación. Cumplía que tenía las únicas dos cosas que estaba seguro que me gustaban para ese punto. Además mencionaban que era la carrera del futuro. No sé ustedes, pero yo no veo que nadie hable sobre la Ingeniería Matemática. Hasta el momento las personas que descubren lo que estudié asumen que soy una especie de calculadora humana.
+
+Al avanzar dentro de la carrera, lo que veía no cumplía mis expectativas. Todo tenía un enfoque demasiado teórico y no veía la forma en que pudiera trasladar todo eso hacia algo tangible. En algún punto del 2019 descubrí la Ciencia de Datos, lo cual sonaba a ese algo más tangible que buscaba. Para este punto nadie que yo conociera tenía la menor idea del tema. Además estábamos en segundo semestre de carrera, claramente nadie quería aprender más de lo que ya estaba aprendiendo.
+
+## Lo que considero mi punto de inflexión
+
+Comencé como cualquier persona que no tiene en quién apoyarse a buscar cursos. Algunos buenos, otros sumamente malos, pero tras un tiempo todos resultaban sumamente repetitivos. Todos se centraban en lo básico. Las mismas preguntas, las mismas respuestas. En algún momento opté por buscar algún podcast que hablara del tema, algo que podría utilizar para aprender de una forma diferente al menos. Para mi mala suerte, todo estaba en inglés. En ese punto mi inglés era lo suficientemente bueno para leer algo, pero me hubiese resultado imposible escuchar un podcast.
+
+A la fecha no estoy seguro de cómo se dio la situación, pero encontré un Podcast en español: *Cuestión de Datos.* En él tocaban temas que quizá ya había leído un poco, pero a diferencia de eso los hosts aportaban sus opiniones, sus experiencias. Algo que yo veía realmente enriquecedor. Al cabo de un tiempo les mandé un DM por Twitter preguntando sobre cursos o cualquier cosa que me pudiera ayudar. La respuesta fue aún mejor, pude tener un Zoom con ellos donde me orientaron demasiado. A este momento atribuyo todo el interés que hoy tengo por la Ciencia de Datos. Por cierto, los hosts de este Podcast son [Carlos Alberto Haro](https://twitter.com/haro_ca_) y [Gibrán Peniche](https://twitter.com/PenicheGibran) a quienes les estoy sumamente agradecido. De hecho debo decir que Carlos fue el que terminó de sembrame la semilla para iniciar este blog. Así que síganlos, tuitean cosas bastante interesantes.
+
+Volviendo al tema. Yo aprovechaba todas las oportunidades que tenía para poner en práctica lo que había aprendido en R. Así es, empecé con R y sigo amando R. Cada trabajo que pedía hacer algún tipo de análisis lo hacía en R. Lo cual era bastante pesado al momento. Tenía que ir aprendiendo algo nuevo en la Universidad y de paso tenía que aprender cómo hacerlo en R, porque en las clases no lo usábamos. Voluntariamente decidía duplicar mi trabajo.
+
+## Mi breve experiencia
+
+Al paso del tiempo, a finales de diciembre del 2020 la Agencia Digital de Innovación Pública lanza una especie de concurso para realizar el servicio social en el área de Datos Abiertos. Me inscribo en el concurso, realizo algunas pruebas y entrevistas y quedo seleccionado. Pasé 6 meses trabajando con ellos y aprendiendo varias cosas. De forma graciosa en mi Universidad no quisieron hacerme válido ese proceso. Quizá mi culpa o mi mala suerte. De cualquier forma aprendí varias cosas en mi tiempo ahí. La persona que estuvo a cargo de mí la mayor parte del tiempo fue [Alejandra González](https://twitter.com/basicavisual) a quien también tengo en mucha estima por el tiempo que me dedicó.
+
+Al terminar mi estancia en el ADIP, Accenture apareció en mi vida. Trabajé dentro de la empresa un periodo corto debido a los horarios con mi Universidad pero fueron meses bastante interesantes.
+
+## ¿Por qué deberías leer esto?
+
+Después de todo esto, si es que llegaste hasta aquí o al menos brincaste hasta aquí, puedes seguir diciendo: ok, gracias por contarme toda una historia que no me interesa, pero no entiendo por qué debería de seguir gastando mi tiempo en ti. Lo entiendo. El detonante que me orilló a escribir esto es que pasé mucho tiempo buscando respuestas a preguntas que nadie hacía, porque todos las daban por hecho.
+
+Mi principal problema al aprender sobre datos, y en general casi cualquier cosa, es que las personas que hablan o escriben del tema son personas con algunos años establecidas en el área (por razones obvias). Sin duda la experiencia de esas personas es de gran valor, pero falta la experiencia de aquellas personas que apenas están entrando. Las personas que hablan sobre las dificultades que han tenido para entrar en el área o aquellas que cuentan cosas simples, no básicas, del proceso de aprendizaje. Mi intención es ser esa persona para las personas que me lean.
+
+Sin duda todo lo que escriba por aquí será totalmente subjetivo. Como ya mencioné, sin duda no soy ningún experto en el tema y estoy lejos de ello, pero espero que lo que encuentren por aquí sea de ayuda y a veces incluso los motive un poco y puedan entender que las dificultades que están viviendo son totalmente normales para todos, aunque a veces no se sienta así.

@@ -1,0 +1,18 @@
+---
+title: "Gerardo Pérez"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/gera0220
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gera0220/
+    - icon: github
+      text: Github
+      href: https://github.com/gera0220
+---
+
+Math engineer in Chihuahua, Mexico. I like challenging myself and learning new stuff in the process. Data enthusiast.

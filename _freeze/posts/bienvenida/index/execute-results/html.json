@@ -1,0 +1,14 @@
+{
+  "hash": "eb7914586a99f9c3c7ac2c4c128d7a01",
+  "result": {
+    "markdown": "---\ntitle: \"Bienvenidos al Blog\"\nauthor: \"Gerardo Pérez\"\ndate: \"2023-07-08\"\ncategories: [news]\nimage: \"image.jpg\"\n---\n\n\nEsta es mi primera entrada, ya veremos cómo va.\n\n\n::: {.cell}\n\n```{.r .cell-code}\nprint(length(1:10))\n```\n\n::: {.cell-output .cell-output-stdout}\n```\n[1] 10\n```\n:::\n:::\n",
+    "supporting": [],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
