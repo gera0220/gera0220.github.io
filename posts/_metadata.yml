@@ -1,5 +1,7 @@
 # options specified here will apply to all posts in this folder
 website: 
+  twitter-card:
+    image: "https://raw.githubusercontent.com/gera0220/gera0220.github.io/main/docs/posts/primer_post/image.jpg"
   open-graph: true
 lang: "es"
 language:
