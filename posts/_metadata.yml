@@ -3,7 +3,7 @@ website:
     open-graph:
         image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
     twitter-card:
-        card-style: "summary"
+        card-style: summary_large_image
         image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
         
 lang: "es"
