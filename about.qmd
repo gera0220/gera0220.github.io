@@ -1,6 +1,6 @@
 ---
 title: "Gerardo Pérez"
-image: profile.jpg
+image: "https://gera0220.github.io/profile.jpg"
 about:
   template: jolla
   links:
