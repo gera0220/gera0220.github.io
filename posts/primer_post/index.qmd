@@ -1,9 +1,0 @@
----
-title: "Primer post, con suerte no el último"
-author: "Gerardo Pérez"
-date: "2023-07-09"
-draft: true
-image: "image.jpg"
----
-
-Pasar del qué debería aprender, al aprender.
