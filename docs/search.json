@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "Gerardo Pérez",
     "section": "",
-    "text": "Math engineer in Chihuahua, Mexico. I like challenging myself and learning new stuff in the process. Data enthusiast."
+    "text": "I’m a Math Engineer based in Chihuahua, Mexico. I thrive on challenging myself and continuously expanding my knowledge. As a passionate data enthusiast, I am constantly seeking opportunities to learn and explore new concepts in this field."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Blog",
     "section": "",
-    "text": "¿Por qué rayos debería leer esto?\n\n\n\n\n\n\n\n\n\n\n\n\nJul 8, 2023\n\n\nGerardo Pérez\n\n\n\n\n\n\nNo matching items"
+    "text": "Tomar decisiones para aprender\n\n\n\n\n\n\n\n\n\n\n\n\nJul 8, 2023\n\n\nGerardo Pérez\n\n\n\n\n\n\n  \n\n\n\n\n¿Por qué rayos debería leer esto?\n\n\n\n\n\n\n\n\n\n\n\n\nJul 7, 2023\n\n\nGerardo Pérez\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/bienvenida/index.html",
@@ -47,5 +47,47 @@
     "title": "¿Por qué rayos debería leer esto?",
     "section": "¿Por qué deberías leer esto?",
     "text": "¿Por qué deberías leer esto?\nDespués de todo esto, si es que llegaste hasta aquí o al menos brincaste hasta aquí, puedes seguir diciendo: ok, gracias por contarme toda una historia que no me interesa, pero no entiendo por qué debería de seguir gastando mi tiempo en ti. Lo entiendo. El detonante que me orilló a escribir esto es que pasé mucho tiempo buscando respuestas a preguntas que nadie hacía, porque todos las daban por hecho.\nMi principal problema al aprender sobre datos, y en general casi cualquier cosa, es que las personas que hablan o escriben del tema son personas con algunos años establecidas en el área (por razones obvias). Sin duda la experiencia de esas personas es de gran valor, pero falta la experiencia de aquellas personas que apenas están entrando. Las personas que hablan sobre las dificultades que han tenido para entrar en el área o aquellas que cuentan cosas simples, no básicas, del proceso de aprendizaje. Mi intención es ser esa persona para las personas que me lean.\nSin duda todo lo que escriba por aquí será totalmente subjetivo. Como ya mencioné, sin duda no soy ningún experto en el tema y estoy lejos de ello, pero espero que lo que encuentren por aquí sea de ayuda y a veces incluso los motive un poco y puedan entender que las dificultades que están viviendo son totalmente normales para todos, aunque a veces no se sienta así."
+  },
+  {
+    "objectID": "posts/primer_post/index.html",
+    "href": "posts/primer_post/index.html",
+    "title": "Tomar decisiones para aprender",
+    "section": "",
+    "text": "Pasar del qué debería aprender, al aprender.\nBueno, oficialmente este es el primer post/artículo/entrada del blog. Al menos el primero después de una larga historia de quién soy. Hace un par de días estaba viendo una plática sobre el stack moderno de datos. Se tocaron varios temas, pero mi mente se centró en DuckDB vs Apache Spark. Y no es sorpresa. Llevo mucho tiempo considerando meterme de lleno en aprender alguna herramienta que me ayude en al análisis de grandes conjuntos de datos y naturalmente Apache Spark había sido el que más escuchaba nombrar. Por otro lado, aunque menos escuchado, DuckDB se escuchaba como una gran alternativa a Spark."
+  },
+  {
+    "objectID": "posts/primer_post/index.html#la-incertidumbre",
+    "href": "posts/primer_post/index.html#la-incertidumbre",
+    "title": "Tomar decisiones para aprender",
+    "section": "La incertidumbre",
+    "text": "La incertidumbre\nUna de las cosas que he procurado a lo largo de mi aprendizaje es estar lo más modernizado posible, sea hablando de conocimientos, de herramientas o cualquier cosa, en general. La razón: no quiero quedarme atrás. No quiero tener la preocupación de caer en la obsolescencia y después tener que empezar de cero por necesidad. Dicho esto, ahora comprenderán por qué mi mente se centró en DuckDB vs Spark. Una alternativa nueva al “viejo” Spark.\nDije que vi la plática hace un par de días, sin embargo no es la primera vez que llega a mi cabeza la idea de aprender alguna de estas herramientas. La realidad es que llevo meses con la incertidumbre de qué debería aprender: irme por Spark, la herramienta clásica que la gran mayoría de los empleadores buscan, o decantarme por DuckDB y, quizá, adelantarme un poco al mercado. En todo este tiempo de incertidumbre ciertamente he aprendido cosas, sin embargo ninguna de ellas relacionada a DuckDB o Spark.\nY no es la primera vez que me sucede, y estoy seguro que como a mí cualquier persona que inicia en el mundo de la tan aclamada ciencia de datos inició preguntándose: ¿debería empezar con Python o con R? Y seguramente, como yo, dedicaron varios días o semanas investigando los beneficios de uno u otro. Ciertamente es importante dedicar tiempo a la investigación del qué debería a prender, después de todo el proceso no es tan rápido como para aprender todo lo que existe, y al hablar de datos el stack ciertamente no es reducido. Sin embargo, entre más tiempo dedicamos al qué aprender, menos tiempo es dedicado al aprender.\nY no sólo me sucede con lo que quiero aprender, también me sucede con otras cosas. Este blog, por ejemplo. Tengo más de 10 meses considerando que debería escribir uno. Así que cuando la idea nació pasé semanas investigando formatos para un blog, pensando en dominios llamativos para el sitio que pudieran atraer personas, viendo dónde debería hostear el sitio, pensando si debería hacer la página desde 0 o utilizar alguna alternativa. ¿La realidad? No hice absolutamente nada en todo ese tiempo."
+  },
+  {
+    "objectID": "posts/primer_post/index.html#la-decisión",
+    "href": "posts/primer_post/index.html#la-decisión",
+    "title": "Tomar decisiones para aprender",
+    "section": "La decisión",
+    "text": "La decisión\nTras ver esa plática fue cuando entendí que debería dejar de preocuparme tanto sobre el qué aprender o el qué hacer y comenzar a preocuparme en aprender y hacer. Las cosas mejorarán con el tiempo, probablemente. Después de ver la plática y pensar en que este tema sería lo primero que me gustaría tocar en el blog, estoy seguro que no tardé más de un par de horas en googlear cómo hacer un blog con Quarto, seguir los pasos, escribir mi post de bienvenida y publicar el sitio. Lo más fácil muchas veces es la mejor opción para comenzar.\nEn cuanto a cuál fue mi decisión sobre DuckDB y Spark bueno, me decidí por Spark. Probablemente los siguientes posts serán sobre mi proceso de aprendizaje y cómo voy lidiando con las cosas que saltan además de quizá explicar por qué opté por Spark. Spoiler: tenía que empezar con algo."
+  },
+  {
+    "objectID": "posts/01-decisiones-para-aprender/index.html",
+    "href": "posts/01-decisiones-para-aprender/index.html",
+    "title": "Tomar decisiones para aprender",
+    "section": "",
+    "text": "Pasar del qué debería aprender, al aprender.\nBueno, oficialmente este es el primer post/artículo/entrada del blog. Al menos el primero después de una larga historia de quién soy. Hace un par de días estaba viendo una plática sobre el stack moderno de datos. Se tocaron varios temas, pero mi mente se centró en DuckDB vs Apache Spark. Y no es sorpresa. Llevo mucho tiempo considerando meterme de lleno en aprender alguna herramienta que me ayude en al análisis de grandes conjuntos de datos y naturalmente Apache Spark había sido el que más escuchaba nombrar. Por otro lado, aunque menos escuchado, DuckDB se escuchaba como una gran alternativa a Spark."
+  },
+  {
+    "objectID": "posts/01-decisiones-para-aprender/index.html#la-incertidumbre",
+    "href": "posts/01-decisiones-para-aprender/index.html#la-incertidumbre",
+    "title": "Tomar decisiones para aprender",
+    "section": "La incertidumbre",
+    "text": "La incertidumbre\nUna de las cosas que he procurado a lo largo de mi aprendizaje es estar lo más modernizado posible, sea hablando de conocimientos, de herramientas o cualquier cosa, en general. La razón: no quiero quedarme atrás. No quiero tener la preocupación de caer en la obsolescencia y después tener que empezar de cero por necesidad. Dicho esto, ahora comprenderán por qué mi mente se centró en DuckDB vs Spark. Una alternativa nueva al “viejo” Spark.\nDije que vi la plática hace un par de días, sin embargo no es la primera vez que llega a mi cabeza la idea de aprender alguna de estas herramientas. La realidad es que llevo meses con la incertidumbre de qué debería aprender: irme por Spark, la herramienta clásica que la gran mayoría de los empleadores buscan, o decantarme por DuckDB y, quizá, adelantarme un poco al mercado. En todo este tiempo de incertidumbre ciertamente he aprendido cosas, sin embargo ninguna de ellas relacionada a DuckDB o Spark.\nY no es la primera vez que me sucede, y estoy seguro que como a mí cualquier persona que inicia en el mundo de la tan aclamada ciencia de datos inició preguntándose: ¿debería empezar con Python o con R? Y seguramente, como yo, dedicaron varios días o semanas investigando los beneficios de uno u otro. Ciertamente es importante dedicar tiempo a la investigación del qué debería a prender, después de todo el proceso no es tan rápido como para aprender todo lo que existe, y al hablar de datos el stack ciertamente no es reducido. Sin embargo, entre más tiempo dedicamos al qué aprender, menos tiempo es dedicado al aprender.\nY no sólo me sucede con lo que quiero aprender, también me sucede con otras cosas. Este blog, por ejemplo. Tengo más de 10 meses considerando que debería escribir uno. Así que cuando la idea nació pasé semanas investigando formatos para un blog, pensando en dominios llamativos para el sitio que pudieran atraer personas, viendo dónde debería hostear el sitio, pensando si debería hacer la página desde 0 o utilizar alguna alternativa. ¿La realidad? No hice absolutamente nada en todo ese tiempo."
+  },
+  {
+    "objectID": "posts/01-decisiones-para-aprender/index.html#la-decisión",
+    "href": "posts/01-decisiones-para-aprender/index.html#la-decisión",
+    "title": "Tomar decisiones para aprender",
+    "section": "La decisión",
+    "text": "La decisión\nTras ver esa plática fue cuando entendí que debería dejar de preocuparme tanto sobre el qué aprender o el qué hacer y comenzar a preocuparme en aprender y hacer. Las cosas mejorarán con el tiempo, probablemente. Después de ver la plática y pensar en que este tema sería lo primero que me gustaría tocar en el blog, estoy seguro que no tardé más de un par de horas en googlear cómo hacer un blog con Quarto, seguir los pasos, escribir mi post de bienvenida y publicar el sitio. Lo más fácil muchas veces es la mejor opción para comenzar.\nEn cuanto a cuál fue mi decisión sobre DuckDB y Spark bueno, me decidí por Spark. Probablemente los siguientes posts serán sobre mi proceso de aprendizaje y cómo voy lidiando con las cosas que saltan además de quizá explicar por qué opté por Spark. Spoiler: tenía que empezar con algo."
   }
 ]

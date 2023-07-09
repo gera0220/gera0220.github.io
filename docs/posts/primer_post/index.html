@@ -8,7 +8,7 @@
 
 <meta name="author" content="Gerardo Pérez">
 
-<title>Blog - Primer post, con suerte no el último</title>
+<title>Blog - Tomar decisiones para aprender</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -62,6 +62,14 @@ ul.task-list li input[type="checkbox"] {
 
 
 <link rel="stylesheet" href="../../styles.css">
+<meta property="og:title" content="Blog - Tomar decisiones para aprender">
+<meta property="og:description" content="">
+<meta property="og:image" content="image.jpg">
+<meta property="og:site-name" content="Blog">
+<meta name="twitter:title" content="Blog - Tomar decisiones para aprender">
+<meta name="twitter:description" content="">
+<meta name="twitter:image" content="image.jpg">
+<meta name="twitter:card" content="summary_large_image">
 </head>
 
 <body class="nav-fixed fullcontent">
@@ -106,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-body">
-      <h1 class="title">Primer post, con suerte no el último</h1>
+      <h1 class="title">Tomar decisiones para aprender</h1>
                       </div>
   </div>
     
@@ -142,8 +150,22 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p>Pasar del qué debería aprender, al aprender.</p>
+<hr>
+<p>Bueno, oficialmente este es el primer post/artículo/entrada del blog. Al menos el primero después de una <a href="https://gera0220.github.io/posts/bienvenida/">larga historia de quién soy</a>. Hace un par de días estaba viendo una plática sobre el <a href="https://www.youtube.com/watch?v=h5bq3gsDDd0&amp;t=293s">stack moderno de datos</a>. Se tocaron varios temas, pero mi mente se centró en DuckDB vs Apache Spark. Y no es sorpresa. Llevo mucho tiempo considerando meterme de lleno en aprender alguna herramienta que me ayude en al análisis de grandes conjuntos de datos y naturalmente Apache Spark había sido el que más escuchaba nombrar. Por otro lado, aunque menos escuchado, DuckDB se escuchaba como una gran alternativa a Spark.</p>
+<section id="la-incertidumbre" class="level2">
+<h2 class="anchored" data-anchor-id="la-incertidumbre">La incertidumbre</h2>
+<p>Una de las cosas que he procurado a lo largo de mi aprendizaje es estar lo más modernizado posible, sea hablando de conocimientos, de herramientas o cualquier cosa, en general. La razón: no quiero quedarme atrás. No quiero tener la preocupación de caer en la obsolescencia y después tener que empezar de cero por necesidad. Dicho esto, ahora comprenderán por qué mi mente se centró en DuckDB vs Spark. Una alternativa nueva al “viejo” Spark.</p>
+<p>Dije que vi la plática hace un par de días, sin embargo no es la primera vez que llega a mi cabeza la idea de aprender alguna de estas herramientas. La realidad es que llevo meses con la incertidumbre de qué debería aprender: irme por Spark, la herramienta clásica que la gran mayoría de los empleadores buscan, o decantarme por DuckDB y, quizá, adelantarme un poco al mercado. En todo este tiempo de incertidumbre ciertamente he aprendido cosas, sin embargo ninguna de ellas relacionada a DuckDB o Spark.</p>
+<p>Y no es la primera vez que me sucede, y estoy seguro que como a mí cualquier persona que inicia en el mundo de la tan aclamada ciencia de datos inició preguntándose: ¿debería empezar con Python o con R? Y seguramente, como yo, dedicaron varios días o semanas investigando los beneficios de uno u otro. Ciertamente es importante dedicar tiempo a la investigación del <em>qué debería a prender</em>, después de todo el proceso no es tan rápido como para aprender todo lo que existe, y al hablar de datos el stack ciertamente no es reducido. Sin embargo, entre más tiempo dedicamos al qué aprender, menos tiempo es dedicado <em>al aprender</em>.</p>
+<p>Y no sólo me sucede con lo que quiero aprender, también me sucede con otras cosas. Este blog, por ejemplo. Tengo más de 10 meses <em>considerando</em> que debería escribir uno. Así que cuando la idea nació pasé semanas investigando formatos para un blog, pensando en dominios llamativos para el sitio que pudieran atraer personas, viendo dónde debería hostear el sitio, pensando si debería hacer la página desde 0 o utilizar alguna alternativa. ¿La realidad? No hice absolutamente nada en todo ese tiempo.</p>
+</section>
+<section id="la-decisión" class="level2">
+<h2 class="anchored" data-anchor-id="la-decisión">La decisión</h2>
+<p>Tras ver esa plática fue cuando entendí que debería dejar de preocuparme tanto sobre el qué aprender o el qué hacer y comenzar a preocuparme en aprender y hacer. Las cosas mejorarán con el tiempo, probablemente. Después de ver la plática y pensar en que este tema sería lo primero que me gustaría tocar en el blog, estoy seguro que no tardé más de un par de horas en googlear cómo hacer un <a href="https://quarto.org/docs/websites/website-blog.html">blog con Quarto</a>, seguir los pasos, escribir mi post de bienvenida y publicar el sitio. Lo más fácil muchas veces es la mejor opción para comenzar.</p>
+<p>En cuanto a cuál fue mi decisión sobre DuckDB y Spark bueno, me decidí por Spark. Probablemente los siguientes posts serán sobre mi proceso de aprendizaje y cómo voy lidiando con las cosas que saltan además de quizá explicar por qué opté por Spark. Spoiler: tenía que empezar con algo.</p>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -377,6 +399,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

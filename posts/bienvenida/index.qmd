@@ -1,7 +1,7 @@
 ---
 title: "¿Por qué rayos debería leer esto?"
 author: "Gerardo Pérez"
-date: "2023-07-08"
+date: "2023-07-07"
 categories: 
 image: "image.jpg"
 ---
