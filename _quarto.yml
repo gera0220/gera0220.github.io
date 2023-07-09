@@ -4,7 +4,7 @@ project:
 
 website:
   open-graph:
-    image: "https://s0.wp.com/i/blank.jpg"
+    image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
   title: "Blog"
   navbar:
     right:

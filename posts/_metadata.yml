@@ -1,11 +1,10 @@
 # options specified here will apply to all posts in this folder
 website: 
     open-graph:
-        image: "https://s0.wp.com/i/blank.jpg"
+        image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
     twitter-card:
-        description: "Prueba número 1000"
         card-style: "summary"
-        image: "https://s0.wp.com/i/blank.jpg"
+        image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
         
 lang: "es"
 language:
