@@ -1,5 +1,6 @@
 # options specified here will apply to all posts in this folder
-
+website: 
+  open-graph: true
 lang: "es"
 language:
     title-block-author-single: "Autor"
