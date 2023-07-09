@@ -1,3 +1,4 @@
 link-external-newwindow: true
 website: 
-  twitter-card: true
+  twitter-card:
+    image: "image.jpg"
