@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 website:
-  open-graph: true
+  open-graph:
+    image: "https://s0.wp.com/i/blank.jpg"
   title: "Blog"
   navbar:
     right:
