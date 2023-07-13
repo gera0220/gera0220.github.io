@@ -1,4 +1,9 @@
-# [Curriculum Vitae]{.smallcaps}
+---
+title: "CV"
+website:
+  open-graph:
+    image: "https://gera0220.github.io/profile.jpg"
+---
 
 ## [About Me]{.smallcaps}
 
