@@ -1,0 +1,59 @@
+# [Curriculum Vitae]{.smallcaps}
+
+## [About Me]{.smallcaps}
+
+As a data enthusiast with a strong foundation in mathematics, I have successfully executed various projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis.
+
+## [Work Experience]{.smallcaps}
+
+### [Accenture]{.smallcaps}
+
+Application Developer
+
+-   I built web pages using Power Apps Portals and HTML.
+-   I designed mobile applications using Canvas App that, together with Power Automate, made the daily life of the clients easier.
+
+### [Digital Public Innovation Agency]{.smallcaps}
+
+Data Analyst Intern
+
+-   I developed cleaning algorithms for databases using R.
+-   I designed Github repositories for information exchange.
+
+## [Projects]{.smallcaps}
+
+### [Alsuper Web Scraper]{.smallcaps}
+
+-   Developed a web scraper using Selenium and BeautifulSoup.
+-   It extracts name, regular price, offer price (if exists), quantity and other elements for each product.
+    Cleaned each field extracted.
+
+### [Virtual Assistant with Voice Recognition]{.smallcaps}
+
+-   Feature extraction of audio files that feeds a neural network that recognizes the user through voice.
+-   Voice assistant that uses Google API to improve speech-to-text.
+    Created an SQLite schema to store data of neural network, audio features and users preferences.
+
+### [Predicting Scholar Dropout]{.smallcaps}
+
+-   I supported a project that pretended predict scholar dropout by using deep learning algorithms in Python.
+
+### [Electrical Potential in Eccentric Capacitors]{.smallcaps}
+
+-   Created an algorithm in C able to make transform two eccentric capacitors into a plate by a Mobius transformation for an easier analysis.
+-   Using R, I made a heatmap of the plate obtained in the previous step.
+
+## [Education]{.smallcaps}
+
+### [Autonomous University of Chihuahua]{.smallcaps}
+
+-   Bachelor of Mathematics (Math Engineering)
+-   Cumulative Average: 9.2
+
+## [Skills And Interests]{.smallcaps}
+
+[**Technical Skills**]{.smallcaps}: Python, R, SQL, Git
+
+[**Languages**]{.smallcaps}: Spanish; English
+
+[**Interests**]{.smallcaps}: Reading, Soccer, Weight training, Traveling
