@@ -1,6 +1,9 @@
 ---
 title: "Gerardo Pérez"
 image: "https://gera0220.github.io/profile.jpg"
+website:
+  open-graph:
+    image: "https://gera0220.github.io/profile.jpg"
 about:
   template: jolla
   links:
