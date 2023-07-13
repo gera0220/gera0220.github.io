@@ -13,7 +13,7 @@ website:
   navbar:
     right:
       - blog.qmd
-      - href: cv.qmd
+      - href: CV.qmd
         text: CV
       - icon: github
         href: https://github.com/gera0220
