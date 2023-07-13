@@ -2,7 +2,7 @@
 title: "Tomar decisiones para aprender"
 author: "Gerardo Pérez"
 date: "2023-07-08"
-image: "image.jpg"
+image: "galaxia_cool.jpg"
 ---
 
 Pasar del qué debería aprender, al aprender.
