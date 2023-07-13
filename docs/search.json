@@ -1,94 +1,10 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "Gerardo Pérez",
-    "section": "",
-    "text": "I’m a Math Engineer based in Chihuahua, Mexico. I thrive on challenging myself and continuously expanding my knowledge. As a passionate data enthusiast, I am constantly seeking opportunities to learn and explore new concepts in this field."
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Gerardo Pérez",
     "section": "",
     "text": "I’m a Math Engineer based in Chihuahua, Mexico. I thrive on challenging myself and continuously expanding my knowledge. As a passionate data enthusiast, I am constantly seeking opportunities to learn and explore new concepts in this field."
-  },
-  {
-    "objectID": "posts/bienvenida/index.html",
-    "href": "posts/bienvenida/index.html",
-    "title": "¿Por qué rayos debería leer esto?",
-    "section": "",
-    "text": "Una (no tan) breve historia de quién soy y por qué deberías leerme.\nSi decides que sólo quieres saber lo importante, puedes saltar para acá."
-  },
-  {
-    "objectID": "posts/bienvenida/index.html#quién-soy-de-dónde-salí",
-    "href": "posts/bienvenida/index.html#quién-soy-de-dónde-salí",
-    "title": "¿Por qué rayos debería leer esto?",
-    "section": "¿Quién soy? ¿De dónde salí?",
-    "text": "¿Quién soy? ¿De dónde salí?\nHola, soy Gerardo Pérez. Un pasante de ingeniería matemática, al menos hasta que el papel que dice lo contrario llegue, con mucho cariño por toda el área de datos. Remontándome algunos años atrás, en la prepa para ser más precisos, llegó un punto en el que tenía que escoger una capacitación. Escogí contabilidad. Yo sé, esto ya suena mal, pero la cosa mejora un poco. Para mi poca fortuna decidieron que quedaría mejor en programación. Tras un largo rato de súplicas, me cambiaron a contabilidad.\nLlegada mi primera clase de contabilidad me di cuenta que no conocía a absolutamente a nadie y siendo justos, algo se sentía raro. Saliendo de la clase me encontré con unos amigos que me preguntaron por qué no entré a programación. Bueno, una mejor pregunta en ese punto era y ¿por qué rayos debería haberlo hecho? En ese punto, a pesar de no ser totalmente agnóstico a la computación, sin duda no me volvía loco por ella. Por otro lado, contabilidad tampoco me apasionaba, así que qué más daba cambiarme de área (de nuevo). Al menos allá conocería gente. Tras pedir misericordia luego de ya haberla pedido previamente, logré que me devolvieran a programación.\nNo quisiera hacer más largo de lo que debería esto, pero con el paso del tiempo me di cuenta que me gustaba mucho saber de computadoras. Posteriormente descubrir la programación y lo que se podía hacer con ella. Además resultó que era bastante bueno, al menos para los estándares de la clase.\nOtro dato importante de mí es que desde pequeño me gustaban mucho las matemáticas. Supongo que cuando decidí entrar a contabilidad mi lógica fue que había números inmersos. Así entonces, además de escoger una capacitación tuve que escoger un área de especialidad. Me incliné por el área de Físico-Matemático. De ahí descubrí que probabilidad y estadística era algo que me apasionaba bastante.\nAl momento de escoger una carrera, como muchos, no tenía ni la menor idea. Al final me decanté por Ingeniería Matemática. Sonaba la opción lógica: era bueno para las mates y además en su retícula mencionaban mucho el uso de programación. Cumplía que tenía las únicas dos cosas que estaba seguro que me gustaban para ese punto. Además mencionaban que era la carrera del futuro. No sé ustedes, pero yo no veo que nadie hable sobre la Ingeniería Matemática. Hasta el momento las personas que descubren lo que estudié asumen que soy una especie de calculadora humana.\nAl avanzar dentro de la carrera, lo que veía no cumplía mis expectativas. Todo tenía un enfoque demasiado teórico y no veía la forma en que pudiera trasladar todo eso hacia algo tangible. En algún punto del 2019 descubrí la Ciencia de Datos, lo cual sonaba a ese algo más tangible que buscaba. Para este punto nadie que yo conociera tenía la menor idea del tema. Además estábamos en segundo semestre de carrera, claramente nadie quería aprender más de lo que ya estaba aprendiendo."
-  },
-  {
-    "objectID": "posts/bienvenida/index.html#lo-que-considero-mi-punto-de-inflexión",
-    "href": "posts/bienvenida/index.html#lo-que-considero-mi-punto-de-inflexión",
-    "title": "¿Por qué rayos debería leer esto?",
-    "section": "Lo que considero mi punto de inflexión",
-    "text": "Lo que considero mi punto de inflexión\nComencé como cualquier persona que no tiene en quién apoyarse a buscar cursos. Algunos buenos, otros sumamente malos, pero tras un tiempo todos resultaban sumamente repetitivos. Todos se centraban en lo básico. Las mismas preguntas, las mismas respuestas. En algún momento opté por buscar algún podcast que hablara del tema, algo que podría utilizar para aprender de una forma diferente al menos. Para mi mala suerte, todo estaba en inglés. En ese punto mi inglés era lo suficientemente bueno para leer algo, pero me hubiese resultado imposible escuchar un podcast.\nA la fecha no estoy seguro de cómo se dio la situación, pero encontré un Podcast en español: Cuestión de Datos. En él tocaban temas que quizá ya había leído un poco, pero a diferencia de eso los hosts aportaban sus opiniones, sus experiencias. Algo que yo veía realmente enriquecedor. Al cabo de un tiempo les mandé un DM por Twitter preguntando sobre cursos o cualquier cosa que me pudiera ayudar. La respuesta fue aún mejor, pude tener un Zoom con ellos donde me orientaron demasiado. A este momento atribuyo todo el interés que hoy tengo por la Ciencia de Datos. Por cierto, los hosts de este Podcast son Carlos Alberto Haro y Gibrán Peniche a quienes les estoy sumamente agradecido. De hecho debo decir que Carlos fue el que terminó de sembrame la semilla para iniciar este blog. Así que síganlos, tuitean cosas bastante interesantes.\nVolviendo al tema. Yo aprovechaba todas las oportunidades que tenía para poner en práctica lo que había aprendido en R. Así es, empecé con R y sigo amando R. Cada trabajo que pedía hacer algún tipo de análisis lo hacía en R. Lo cual era bastante pesado al momento. Tenía que ir aprendiendo algo nuevo en la Universidad y de paso tenía que aprender cómo hacerlo en R, porque en las clases no lo usábamos. Voluntariamente decidía duplicar mi trabajo."
-  },
-  {
-    "objectID": "posts/bienvenida/index.html#mi-breve-experiencia",
-    "href": "posts/bienvenida/index.html#mi-breve-experiencia",
-    "title": "¿Por qué rayos debería leer esto?",
-    "section": "Mi breve experiencia",
-    "text": "Mi breve experiencia\nAl paso del tiempo, a finales de diciembre del 2020 la Agencia Digital de Innovación Pública lanza una especie de concurso para realizar el servicio social en el área de Datos Abiertos. Me inscribo en el concurso, realizo algunas pruebas y entrevistas y quedo seleccionado. Pasé 6 meses trabajando con ellos y aprendiendo varias cosas. De forma graciosa en mi Universidad no quisieron hacerme válido ese proceso. Quizá mi culpa o mi mala suerte. De cualquier forma aprendí varias cosas en mi tiempo ahí. La persona que estuvo a cargo de mí la mayor parte del tiempo fue Alejandra González a quien también tengo en mucha estima por el tiempo que me dedicó.\nAl terminar mi estancia en el ADIP, Accenture apareció en mi vida. Trabajé dentro de la empresa un periodo corto debido a los horarios con mi Universidad pero fueron meses bastante interesantes."
-  },
-  {
-    "objectID": "posts/bienvenida/index.html#por-qué-deberías-leer-esto",
-    "href": "posts/bienvenida/index.html#por-qué-deberías-leer-esto",
-    "title": "¿Por qué rayos debería leer esto?",
-    "section": "¿Por qué deberías leer esto?",
-    "text": "¿Por qué deberías leer esto?\nDespués de todo esto, si es que llegaste hasta aquí o al menos brincaste hasta aquí, puedes seguir diciendo: ok, gracias por contarme toda una historia que no me interesa, pero no entiendo por qué debería de seguir gastando mi tiempo en ti. Lo entiendo. El detonante que me orilló a escribir esto es que pasé mucho tiempo buscando respuestas a preguntas que nadie hacía, porque todos las daban por hecho.\nMi principal problema al aprender sobre datos, y en general casi cualquier cosa, es que las personas que hablan o escriben del tema son personas con algunos años establecidas en el área (por razones obvias). Sin duda la experiencia de esas personas es de gran valor, pero falta la experiencia de aquellas personas que apenas están entrando. Las personas que hablan sobre las dificultades que han tenido para entrar en el área o aquellas que cuentan cosas simples, no básicas, del proceso de aprendizaje. Mi intención es ser esa persona para las personas que me lean.\nSin duda todo lo que escriba por aquí será totalmente subjetivo. Como ya mencioné, sin duda no soy ningún experto en el tema y estoy lejos de ello, pero espero que lo que encuentren por aquí sea de ayuda y a veces incluso los motive un poco y puedan entender que las dificultades que están viviendo son totalmente normales para todos, aunque a veces no se sienta así."
-  },
-  {
-    "objectID": "posts/primer_post/index.html",
-    "href": "posts/primer_post/index.html",
-    "title": "Tomar decisiones para aprender",
-    "section": "",
-    "text": "Pasar del qué debería aprender, al aprender.\nBueno, oficialmente este es el primer post/artículo/entrada del blog. Al menos el primero después de una larga historia de quién soy. Hace un par de días estaba viendo una plática sobre el stack moderno de datos. Se tocaron varios temas, pero mi mente se centró en DuckDB vs Apache Spark. Y no es sorpresa. Llevo mucho tiempo considerando meterme de lleno en aprender alguna herramienta que me ayude en al análisis de grandes conjuntos de datos y naturalmente Apache Spark había sido el que más escuchaba nombrar. Por otro lado, aunque menos escuchado, DuckDB se escuchaba como una gran alternativa a Spark."
-  },
-  {
-    "objectID": "posts/primer_post/index.html#la-incertidumbre",
-    "href": "posts/primer_post/index.html#la-incertidumbre",
-    "title": "Tomar decisiones para aprender",
-    "section": "La incertidumbre",
-    "text": "La incertidumbre\nUna de las cosas que he procurado a lo largo de mi aprendizaje es estar lo más modernizado posible, sea hablando de conocimientos, de herramientas o cualquier cosa, en general. La razón: no quiero quedarme atrás. No quiero tener la preocupación de caer en la obsolescencia y después tener que empezar de cero por necesidad. Dicho esto, ahora comprenderán por qué mi mente se centró en DuckDB vs Spark. Una alternativa nueva al “viejo” Spark.\nDije que vi la plática hace un par de días, sin embargo no es la primera vez que llega a mi cabeza la idea de aprender alguna de estas herramientas. La realidad es que llevo meses con la incertidumbre de qué debería aprender: irme por Spark, la herramienta clásica que la gran mayoría de los empleadores buscan, o decantarme por DuckDB y, quizá, adelantarme un poco al mercado. En todo este tiempo de incertidumbre ciertamente he aprendido cosas, sin embargo ninguna de ellas relacionada a DuckDB o Spark.\nY no es la primera vez que me sucede, y estoy seguro que como a mí cualquier persona que inicia en el mundo de la tan aclamada ciencia de datos inició preguntándose: ¿debería empezar con Python o con R? Y seguramente, como yo, dedicaron varios días o semanas investigando los beneficios de uno u otro. Ciertamente es importante dedicar tiempo a la investigación del qué debería a prender, después de todo el proceso no es tan rápido como para aprender todo lo que existe, y al hablar de datos el stack ciertamente no es reducido. Sin embargo, entre más tiempo dedicamos al qué aprender, menos tiempo es dedicado al aprender.\nY no sólo me sucede con lo que quiero aprender, también me sucede con otras cosas. Este blog, por ejemplo. Tengo más de 10 meses considerando que debería escribir uno. Así que cuando la idea nació pasé semanas investigando formatos para un blog, pensando en dominios llamativos para el sitio que pudieran atraer personas, viendo dónde debería hostear el sitio, pensando si debería hacer la página desde 0 o utilizar alguna alternativa. ¿La realidad? No hice absolutamente nada en todo ese tiempo."
-  },
-  {
-    "objectID": "posts/primer_post/index.html#la-decisión",
-    "href": "posts/primer_post/index.html#la-decisión",
-    "title": "Tomar decisiones para aprender",
-    "section": "La decisión",
-    "text": "La decisión\nTras ver esa plática fue cuando entendí que debería dejar de preocuparme tanto sobre el qué aprender o el qué hacer y comenzar a preocuparme en aprender y hacer. Las cosas mejorarán con el tiempo, probablemente. Después de ver la plática y pensar en que este tema sería lo primero que me gustaría tocar en el blog, estoy seguro que no tardé más de un par de horas en googlear cómo hacer un blog con Quarto, seguir los pasos, escribir mi post de bienvenida y publicar el sitio. Lo más fácil muchas veces es la mejor opción para comenzar.\nEn cuanto a cuál fue mi decisión sobre DuckDB y Spark bueno, me decidí por Spark. Probablemente los siguientes posts serán sobre mi proceso de aprendizaje y cómo voy lidiando con las cosas que saltan además de quizá explicar por qué opté por Spark. Spoiler: tenía que empezar con algo."
-  },
-  {
-    "objectID": "posts/01-decisiones-para-aprender/index.html",
-    "href": "posts/01-decisiones-para-aprender/index.html",
-    "title": "Tomar decisiones para aprender",
-    "section": "",
-    "text": "Pasar del qué debería aprender, al aprender.\nBueno, oficialmente este es el primer post/artículo/entrada del blog. Al menos el primero después de una larga historia de quién soy. Hace un par de días estaba viendo una plática sobre el stack moderno de datos. Se tocaron varios temas, pero mi mente se centró en DuckDB vs Apache Spark. Y no es sorpresa. Llevo mucho tiempo considerando meterme de lleno en aprender alguna herramienta que me ayude en al análisis de grandes conjuntos de datos y naturalmente Apache Spark había sido el que más escuchaba nombrar. Por otro lado, aunque menos escuchado, DuckDB se escuchaba como una gran alternativa a Spark."
-  },
-  {
-    "objectID": "posts/01-decisiones-para-aprender/index.html#la-incertidumbre",
-    "href": "posts/01-decisiones-para-aprender/index.html#la-incertidumbre",
-    "title": "Tomar decisiones para aprender",
-    "section": "La incertidumbre",
-    "text": "La incertidumbre\nUna de las cosas que he procurado a lo largo de mi aprendizaje es estar lo más modernizado posible, sea hablando de conocimientos, de herramientas o cualquier cosa, en general. La razón: no quiero quedarme atrás. No quiero tener la preocupación de caer en la obsolescencia y después tener que empezar de cero por necesidad. Dicho esto, ahora comprenderán por qué mi mente se centró en DuckDB vs Spark. Una alternativa nueva al “viejo” Spark.\nDije que vi la plática hace un par de días, sin embargo no es la primera vez que llega a mi cabeza la idea de aprender alguna de estas herramientas. La realidad es que llevo meses con la incertidumbre de qué debería aprender: irme por Spark, la herramienta clásica que la gran mayoría de los empleadores buscan, o decantarme por DuckDB y, quizá, adelantarme un poco al mercado. En todo este tiempo de incertidumbre ciertamente he aprendido cosas, sin embargo ninguna de ellas relacionada a DuckDB o Spark.\nY no es la primera vez que me sucede, y estoy seguro que como a mí cualquier persona que inicia en el mundo de la tan aclamada ciencia de datos inició preguntándose: ¿debería empezar con Python o con R? Y seguramente, como yo, dedicaron varios días o semanas investigando los beneficios de uno u otro. Ciertamente es importante dedicar tiempo a la investigación del qué debería a prender, después de todo el proceso no es tan rápido como para aprender todo lo que existe, y al hablar de datos el stack ciertamente no es reducido. Sin embargo, entre más tiempo dedicamos al qué aprender, menos tiempo es dedicado al aprender.\nY no sólo me sucede con lo que quiero aprender, también me sucede con otras cosas. Este blog, por ejemplo. Tengo más de 10 meses considerando que debería escribir uno. Así que cuando la idea nació pasé semanas investigando formatos para un blog, pensando en dominios llamativos para el sitio que pudieran atraer personas, viendo dónde debería hostear el sitio, pensando si debería hacer la página desde 0 o utilizar alguna alternativa. ¿La realidad? No hice absolutamente nada en todo ese tiempo."
-  },
-  {
-    "objectID": "posts/01-decisiones-para-aprender/index.html#la-decisión",
-    "href": "posts/01-decisiones-para-aprender/index.html#la-decisión",
-    "title": "Tomar decisiones para aprender",
-    "section": "La decisión",
-    "text": "La decisión\nTras ver esa plática fue cuando entendí que debería dejar de preocuparme tanto sobre el qué aprender o el qué hacer y comenzar a preocuparme en aprender y hacer. Las cosas mejorarán con el tiempo, probablemente. Después de ver la plática y pensar en que este tema sería lo primero que me gustaría tocar en el blog, estoy seguro que no tardé más de un par de horas en googlear cómo hacer un blog con Quarto, seguir los pasos, escribir mi post de bienvenida y publicar el sitio. Lo más fácil muchas veces es la mejor opción para comenzar.\nEn cuanto a cuál fue mi decisión sobre DuckDB y Spark bueno, me decidí por Spark. Probablemente los siguientes posts serán sobre mi proceso de aprendizaje y cómo voy lidiando con las cosas que saltan además de quizá explicar por qué opté por Spark. Spoiler: tenía que empezar con algo."
   },
   {
     "objectID": "blog.html",
@@ -140,87 +56,59 @@
     "text": "Technical Skills: Python, R, SQL, Git\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight training, Traveling"
   },
   {
-    "objectID": "CV.html",
-    "href": "CV.html",
-    "title": "Curriculum Vitae",
+    "objectID": "posts/01-decisiones-para-aprender/index.html",
+    "href": "posts/01-decisiones-para-aprender/index.html",
+    "title": "Tomar decisiones para aprender",
     "section": "",
-    "text": "As a data enthusiast with a strong foundation in mathematics, I have successfully executed various projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis.\n\n\n\n\n\nApplication Developer\n\nI built web pages using Power Apps Portals and HTML.\nI designed mobile applications using Canvas App that, together with Power Automate, made the daily life of the clients easier.\n\n\n\n\nData Analyst Intern\n\nI developed cleaning algorithms for databases using R.\nI designed Github repositories for information exchange.\n\n\n\n\n\n\n\n\nDeveloped a web scraper using Selenium and BeautifulSoup.\nIt extracts name, regular price, offer price (if exists), quantity and other elements for each product. Cleaned each field extracted.\n\n\n\n\n\nFeature extraction of audio files that feeds a neural network that recognizes the user through voice.\nVoice assistant that uses Google API to improve speech-to-text. Created an SQLite schema to store data of neural network, audio features and users preferences.\n\n\n\n\n\nI supported a project that pretended predict scholar dropout by using deep learning algorithms in Python.\n\n\n\n\n\nCreated an algorithm in C able to make transform two eccentric capacitors into a plate by a Mobius transformation for an easier analysis.\nUsing R, I made a heatmap of the plate obtained in the previous step.\n\n\n\n\n\n\n\n\nBachelor of Mathematics (Math Engineering)\nCumulative Average: 9.2\n\n\n\n\n\nTechnical Skills: Python, R, SQL, Git\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight training, Traveling"
+    "text": "Pasar del qué debería aprender, al aprender.\nBueno, oficialmente este es el primer post/artículo/entrada del blog. Al menos el primero después de una larga historia de quién soy. Hace un par de días estaba viendo una plática sobre el stack moderno de datos. Se tocaron varios temas, pero mi mente se centró en DuckDB vs Apache Spark. Y no es sorpresa. Llevo mucho tiempo considerando meterme de lleno en aprender alguna herramienta que me ayude en al análisis de grandes conjuntos de datos y naturalmente Apache Spark había sido el que más escuchaba nombrar. Por otro lado, aunque menos escuchado, DuckDB se escuchaba como una gran alternativa a Spark."
   },
   {
-    "objectID": "CV.html#about-me",
-    "href": "CV.html#about-me",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "As a data enthusiast with a strong foundation in mathematics, I have successfully executed various projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis."
+    "objectID": "posts/01-decisiones-para-aprender/index.html#la-incertidumbre",
+    "href": "posts/01-decisiones-para-aprender/index.html#la-incertidumbre",
+    "title": "Tomar decisiones para aprender",
+    "section": "La incertidumbre",
+    "text": "La incertidumbre\nUna de las cosas que he procurado a lo largo de mi aprendizaje es estar lo más modernizado posible, sea hablando de conocimientos, de herramientas o cualquier cosa, en general. La razón: no quiero quedarme atrás. No quiero tener la preocupación de caer en la obsolescencia y después tener que empezar de cero por necesidad. Dicho esto, ahora comprenderán por qué mi mente se centró en DuckDB vs Spark. Una alternativa nueva al “viejo” Spark.\nDije que vi la plática hace un par de días, sin embargo no es la primera vez que llega a mi cabeza la idea de aprender alguna de estas herramientas. La realidad es que llevo meses con la incertidumbre de qué debería aprender: irme por Spark, la herramienta clásica que la gran mayoría de los empleadores buscan, o decantarme por DuckDB y, quizá, adelantarme un poco al mercado. En todo este tiempo de incertidumbre ciertamente he aprendido cosas, sin embargo ninguna de ellas relacionada a DuckDB o Spark.\nY no es la primera vez que me sucede, y estoy seguro que como a mí cualquier persona que inicia en el mundo de la tan aclamada ciencia de datos inició preguntándose: ¿debería empezar con Python o con R? Y seguramente, como yo, dedicaron varios días o semanas investigando los beneficios de uno u otro. Ciertamente es importante dedicar tiempo a la investigación del qué debería a prender, después de todo el proceso no es tan rápido como para aprender todo lo que existe, y al hablar de datos el stack ciertamente no es reducido. Sin embargo, entre más tiempo dedicamos al qué aprender, menos tiempo es dedicado al aprender.\nY no sólo me sucede con lo que quiero aprender, también me sucede con otras cosas. Este blog, por ejemplo. Tengo más de 10 meses considerando que debería escribir uno. Así que cuando la idea nació pasé semanas investigando formatos para un blog, pensando en dominios llamativos para el sitio que pudieran atraer personas, viendo dónde debería hostear el sitio, pensando si debería hacer la página desde 0 o utilizar alguna alternativa. ¿La realidad? No hice absolutamente nada en todo ese tiempo."
   },
   {
-    "objectID": "CV.html#work-experience",
-    "href": "CV.html#work-experience",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Application Developer\n\nI built web pages using Power Apps Portals and HTML.\nI designed mobile applications using Canvas App that, together with Power Automate, made the daily life of the clients easier.\n\n\n\n\nData Analyst Intern\n\nI developed cleaning algorithms for databases using R.\nI designed Github repositories for information exchange."
+    "objectID": "posts/01-decisiones-para-aprender/index.html#la-decisión",
+    "href": "posts/01-decisiones-para-aprender/index.html#la-decisión",
+    "title": "Tomar decisiones para aprender",
+    "section": "La decisión",
+    "text": "La decisión\nTras ver esa plática fue cuando entendí que debería dejar de preocuparme tanto sobre el qué aprender o el qué hacer y comenzar a preocuparme en aprender y hacer. Las cosas mejorarán con el tiempo, probablemente. Después de ver la plática y pensar en que este tema sería lo primero que me gustaría tocar en el blog, estoy seguro que no tardé más de un par de horas en googlear cómo hacer un blog con Quarto, seguir los pasos, escribir mi post de bienvenida y publicar el sitio. Lo más fácil muchas veces es la mejor opción para comenzar.\nEn cuanto a cuál fue mi decisión sobre DuckDB y Spark bueno, me decidí por Spark. Probablemente los siguientes posts serán sobre mi proceso de aprendizaje y cómo voy lidiando con las cosas que saltan además de quizá explicar por qué opté por Spark. Spoiler: tenía que empezar con algo."
   },
   {
-    "objectID": "CV.html#projects",
-    "href": "CV.html#projects",
-    "title": "Curriculum Vitae",
+    "objectID": "posts/bienvenida/index.html",
+    "href": "posts/bienvenida/index.html",
+    "title": "¿Por qué rayos debería leer esto?",
     "section": "",
-    "text": "Developed a web scraper using Selenium and BeautifulSoup.\nIt extracts name, regular price, offer price (if exists), quantity and other elements for each product. Cleaned each field extracted.\n\n\n\n\n\nFeature extraction of audio files that feeds a neural network that recognizes the user through voice.\nVoice assistant that uses Google API to improve speech-to-text. Created an SQLite schema to store data of neural network, audio features and users preferences.\n\n\n\n\n\nI supported a project that pretended predict scholar dropout by using deep learning algorithms in Python.\n\n\n\n\n\nCreated an algorithm in C able to make transform two eccentric capacitors into a plate by a Mobius transformation for an easier analysis.\nUsing R, I made a heatmap of the plate obtained in the previous step."
+    "text": "Una (no tan) breve historia de quién soy y por qué deberías leerme.\nSi decides que sólo quieres saber lo importante, puedes saltar para acá."
   },
   {
-    "objectID": "CV.html#education",
-    "href": "CV.html#education",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Bachelor of Mathematics (Math Engineering)\nCumulative Average: 9.2"
+    "objectID": "posts/bienvenida/index.html#quién-soy-de-dónde-salí",
+    "href": "posts/bienvenida/index.html#quién-soy-de-dónde-salí",
+    "title": "¿Por qué rayos debería leer esto?",
+    "section": "¿Quién soy? ¿De dónde salí?",
+    "text": "¿Quién soy? ¿De dónde salí?\nHola, soy Gerardo Pérez. Un pasante de ingeniería matemática, al menos hasta que el papel que dice lo contrario llegue, con mucho cariño por toda el área de datos. Remontándome algunos años atrás, en la prepa para ser más precisos, llegó un punto en el que tenía que escoger una capacitación. Escogí contabilidad. Yo sé, esto ya suena mal, pero la cosa mejora un poco. Para mi poca fortuna decidieron que quedaría mejor en programación. Tras un largo rato de súplicas, me cambiaron a contabilidad.\nLlegada mi primera clase de contabilidad me di cuenta que no conocía a absolutamente a nadie y siendo justos, algo se sentía raro. Saliendo de la clase me encontré con unos amigos que me preguntaron por qué no entré a programación. Bueno, una mejor pregunta en ese punto era y ¿por qué rayos debería haberlo hecho? En ese punto, a pesar de no ser totalmente agnóstico a la computación, sin duda no me volvía loco por ella. Por otro lado, contabilidad tampoco me apasionaba, así que qué más daba cambiarme de área (de nuevo). Al menos allá conocería gente. Tras pedir misericordia luego de ya haberla pedido previamente, logré que me devolvieran a programación.\nNo quisiera hacer más largo de lo que debería esto, pero con el paso del tiempo me di cuenta que me gustaba mucho saber de computadoras. Posteriormente descubrir la programación y lo que se podía hacer con ella. Además resultó que era bastante bueno, al menos para los estándares de la clase.\nOtro dato importante de mí es que desde pequeño me gustaban mucho las matemáticas. Supongo que cuando decidí entrar a contabilidad mi lógica fue que había números inmersos. Así entonces, además de escoger una capacitación tuve que escoger un área de especialidad. Me incliné por el área de Físico-Matemático. De ahí descubrí que probabilidad y estadística era algo que me apasionaba bastante.\nAl momento de escoger una carrera, como muchos, no tenía ni la menor idea. Al final me decanté por Ingeniería Matemática. Sonaba la opción lógica: era bueno para las mates y además en su retícula mencionaban mucho el uso de programación. Cumplía que tenía las únicas dos cosas que estaba seguro que me gustaban para ese punto. Además mencionaban que era la carrera del futuro. No sé ustedes, pero yo no veo que nadie hable sobre la Ingeniería Matemática. Hasta el momento las personas que descubren lo que estudié asumen que soy una especie de calculadora humana.\nAl avanzar dentro de la carrera, lo que veía no cumplía mis expectativas. Todo tenía un enfoque demasiado teórico y no veía la forma en que pudiera trasladar todo eso hacia algo tangible. En algún punto del 2019 descubrí la Ciencia de Datos, lo cual sonaba a ese algo más tangible que buscaba. Para este punto nadie que yo conociera tenía la menor idea del tema. Además estábamos en segundo semestre de carrera, claramente nadie quería aprender más de lo que ya estaba aprendiendo."
   },
   {
-    "objectID": "CV.html#skills-and-interests",
-    "href": "CV.html#skills-and-interests",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Technical Skills: Python, R, SQL, Git\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight training, Traveling"
+    "objectID": "posts/bienvenida/index.html#lo-que-considero-mi-punto-de-inflexión",
+    "href": "posts/bienvenida/index.html#lo-que-considero-mi-punto-de-inflexión",
+    "title": "¿Por qué rayos debería leer esto?",
+    "section": "Lo que considero mi punto de inflexión",
+    "text": "Lo que considero mi punto de inflexión\nComencé como cualquier persona que no tiene en quién apoyarse a buscar cursos. Algunos buenos, otros sumamente malos, pero tras un tiempo todos resultaban sumamente repetitivos. Todos se centraban en lo básico. Las mismas preguntas, las mismas respuestas. En algún momento opté por buscar algún podcast que hablara del tema, algo que podría utilizar para aprender de una forma diferente al menos. Para mi mala suerte, todo estaba en inglés. En ese punto mi inglés era lo suficientemente bueno para leer algo, pero me hubiese resultado imposible escuchar un podcast.\nA la fecha no estoy seguro de cómo se dio la situación, pero encontré un Podcast en español: Cuestión de Datos. En él tocaban temas que quizá ya había leído un poco, pero a diferencia de eso los hosts aportaban sus opiniones, sus experiencias. Algo que yo veía realmente enriquecedor. Al cabo de un tiempo les mandé un DM por Twitter preguntando sobre cursos o cualquier cosa que me pudiera ayudar. La respuesta fue aún mejor, pude tener un Zoom con ellos donde me orientaron demasiado. A este momento atribuyo todo el interés que hoy tengo por la Ciencia de Datos. Por cierto, los hosts de este Podcast son Carlos Alberto Haro y Gibrán Peniche a quienes les estoy sumamente agradecido. De hecho debo decir que Carlos fue el que terminó de sembrame la semilla para iniciar este blog. Así que síganlos, tuitean cosas bastante interesantes.\nVolviendo al tema. Yo aprovechaba todas las oportunidades que tenía para poner en práctica lo que había aprendido en R. Así es, empecé con R y sigo amando R. Cada trabajo que pedía hacer algún tipo de análisis lo hacía en R. Lo cual era bastante pesado al momento. Tenía que ir aprendiendo algo nuevo en la Universidad y de paso tenía que aprender cómo hacerlo en R, porque en las clases no lo usábamos. Voluntariamente decidía duplicar mi trabajo."
   },
   {
-    "objectID": "docs/CV.html",
-    "href": "docs/CV.html",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "As a data enthusiast with a strong foundation in mathematics, I have successfully executed various projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis.\n\n\n\n\n\nApplication Developer\n\nI built web pages using Power Apps Portals and HTML.\nI designed mobile applications using Canvas App that, together with Power Automate, made the daily life of the clients easier.\n\n\n\n\nData Analyst Intern\n\nI developed cleaning algorithms for databases using R.\nI designed Github repositories for information exchange.\n\n\n\n\n\n\n\n\nDeveloped a web scraper using Selenium and BeautifulSoup.\nIt extracts name, regular price, offer price (if exists), quantity and other elements for each product. Cleaned each field extracted.\n\n\n\n\n\nFeature extraction of audio files that feeds a neural network that recognizes the user through voice.\nVoice assistant that uses Google API to improve speech-to-text. Created an SQLite schema to store data of neural network, audio features and users preferences.\n\n\n\n\n\nI supported a project that pretended predict scholar dropout by using deep learning algorithms in Python.\n\n\n\n\n\nCreated an algorithm in C able to make transform two eccentric capacitors into a plate by a Mobius transformation for an easier analysis.\nUsing R, I made a heatmap of the plate obtained in the previous step.\n\n\n\n\n\n\n\n\nBachelor of Mathematics (Math Engineering)\nCumulative Average: 9.2\n\n\n\n\n\nTechnical Skills: Python, R, SQL, Git\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight training, Traveling"
+    "objectID": "posts/bienvenida/index.html#mi-breve-experiencia",
+    "href": "posts/bienvenida/index.html#mi-breve-experiencia",
+    "title": "¿Por qué rayos debería leer esto?",
+    "section": "Mi breve experiencia",
+    "text": "Mi breve experiencia\nAl paso del tiempo, a finales de diciembre del 2020 la Agencia Digital de Innovación Pública lanza una especie de concurso para realizar el servicio social en el área de Datos Abiertos. Me inscribo en el concurso, realizo algunas pruebas y entrevistas y quedo seleccionado. Pasé 6 meses trabajando con ellos y aprendiendo varias cosas. De forma graciosa en mi Universidad no quisieron hacerme válido ese proceso. Quizá mi culpa o mi mala suerte. De cualquier forma aprendí varias cosas en mi tiempo ahí. La persona que estuvo a cargo de mí la mayor parte del tiempo fue Alejandra González a quien también tengo en mucha estima por el tiempo que me dedicó.\nAl terminar mi estancia en el ADIP, Accenture apareció en mi vida. Trabajé dentro de la empresa un periodo corto debido a los horarios con mi Universidad pero fueron meses bastante interesantes."
   },
   {
-    "objectID": "docs/CV.html#about-me",
-    "href": "docs/CV.html#about-me",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "As a data enthusiast with a strong foundation in mathematics, I have successfully executed various projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis."
-  },
-  {
-    "objectID": "docs/CV.html#work-experience",
-    "href": "docs/CV.html#work-experience",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Application Developer\n\nI built web pages using Power Apps Portals and HTML.\nI designed mobile applications using Canvas App that, together with Power Automate, made the daily life of the clients easier.\n\n\n\n\nData Analyst Intern\n\nI developed cleaning algorithms for databases using R.\nI designed Github repositories for information exchange."
-  },
-  {
-    "objectID": "docs/CV.html#projects",
-    "href": "docs/CV.html#projects",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Developed a web scraper using Selenium and BeautifulSoup.\nIt extracts name, regular price, offer price (if exists), quantity and other elements for each product. Cleaned each field extracted.\n\n\n\n\n\nFeature extraction of audio files that feeds a neural network that recognizes the user through voice.\nVoice assistant that uses Google API to improve speech-to-text. Created an SQLite schema to store data of neural network, audio features and users preferences.\n\n\n\n\n\nI supported a project that pretended predict scholar dropout by using deep learning algorithms in Python.\n\n\n\n\n\nCreated an algorithm in C able to make transform two eccentric capacitors into a plate by a Mobius transformation for an easier analysis.\nUsing R, I made a heatmap of the plate obtained in the previous step."
-  },
-  {
-    "objectID": "docs/CV.html#education",
-    "href": "docs/CV.html#education",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Bachelor of Mathematics (Math Engineering)\nCumulative Average: 9.2"
-  },
-  {
-    "objectID": "docs/CV.html#skills-and-interests",
-    "href": "docs/CV.html#skills-and-interests",
-    "title": "Curriculum Vitae",
-    "section": "",
-    "text": "Technical Skills: Python, R, SQL, Git\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight training, Traveling"
+    "objectID": "posts/bienvenida/index.html#por-qué-deberías-leer-esto",
+    "href": "posts/bienvenida/index.html#por-qué-deberías-leer-esto",
+    "title": "¿Por qué rayos debería leer esto?",
+    "section": "¿Por qué deberías leer esto?",
+    "text": "¿Por qué deberías leer esto?\nDespués de todo esto, si es que llegaste hasta aquí o al menos brincaste hasta aquí, puedes seguir diciendo: ok, gracias por contarme toda una historia que no me interesa, pero no entiendo por qué debería de seguir gastando mi tiempo en ti. Lo entiendo. El detonante que me orilló a escribir esto es que pasé mucho tiempo buscando respuestas a preguntas que nadie hacía, porque todos las daban por hecho.\nMi principal problema al aprender sobre datos, y en general casi cualquier cosa, es que las personas que hablan o escriben del tema son personas con algunos años establecidas en el área (por razones obvias). Sin duda la experiencia de esas personas es de gran valor, pero falta la experiencia de aquellas personas que apenas están entrando. Las personas que hablan sobre las dificultades que han tenido para entrar en el área o aquellas que cuentan cosas simples, no básicas, del proceso de aprendizaje. Mi intención es ser esa persona para las personas que me lean.\nSin duda todo lo que escriba por aquí será totalmente subjetivo. Como ya mencioné, sin duda no soy ningún experto en el tema y estoy lejos de ello, pero espero que lo que encuentren por aquí sea de ayuda y a veces incluso los motive un poco y puedan entender que las dificultades que están viviendo son totalmente normales para todos, aunque a veces no se sienta así."
   }
 ]

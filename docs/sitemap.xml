@@ -1,43 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://gera0220.github.io/about.html</loc>
-    <lastmod>2023-07-13T00:29:44.245Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gera0220.github.io/index.html</loc>
-    <lastmod>2023-07-13T00:29:48.128Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gera0220.github.io/posts/01-decisiones-para-aprender/index.html</loc>
-    <lastmod>2023-07-13T00:29:51.176Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gera0220.github.io/posts/bienvenida/index.html</loc>
-    <lastmod>2023-07-13T00:29:55.720Z</lastmod>
-  </url>
-  <url>
-    <loc>https://gera0220.github.io/about.html/about.html</loc>
-    <lastmod>2023-07-13T00:41:05.313Z</lastmod>
-  </url>
-  <url>
     <loc>https://gera0220.github.io/about.html/index.html</loc>
-    <lastmod>2023-07-13T19:17:36.686Z</lastmod>
+    <lastmod>2023-07-13T19:44:29.139Z</lastmod>
   </url>
   <url>
     <loc>https://gera0220.github.io/about.html/blog.html</loc>
-    <lastmod>2023-07-13T19:17:39.088Z</lastmod>
+    <lastmod>2023-07-13T19:44:41.485Z</lastmod>
   </url>
   <url>
     <loc>https://gera0220.github.io/about.html/cv.html</loc>
-    <lastmod>2023-07-13T19:17:40.504Z</lastmod>
+    <lastmod>2023-07-13T19:44:31.212Z</lastmod>
   </url>
   <url>
-    <loc>https://gera0220.github.io/about.html/CV.html</loc>
-    <lastmod>2023-07-13T18:55:44.760Z</lastmod>
+    <loc>https://gera0220.github.io/about.html/posts/01-decisiones-para-aprender/index.html</loc>
+    <lastmod>2023-07-13T19:44:39.947Z</lastmod>
   </url>
   <url>
-    <loc>https://gera0220.github.io/about.html/docs/CV.html</loc>
-    <lastmod>2023-07-13T18:56:44.374Z</lastmod>
+    <loc>https://gera0220.github.io/about.html/posts/bienvenida/index.html</loc>
+    <lastmod>2023-07-13T19:44:37.400Z</lastmod>
   </url>
 </urlset>
