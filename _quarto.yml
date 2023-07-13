@@ -3,12 +3,12 @@ project:
   output-dir: docs
 
 website:
-  site-url: "https://gera0220.github.io/about.html" 
   open-graph:
     image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
   twitter-card:
     creator: "@gera0220"
     image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
+    card-style: summary_large_image
   title: "Gerardo Pérez"
   navbar:
     right:
