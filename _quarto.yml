@@ -3,7 +3,11 @@ project:
   output-dir: docs
 
 website:
+  site-url: "https://gera0220.github.io" 
   open-graph:
+    image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
+  twitter-card:
+    creator: "@gera0220"
     image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
   title: "Blog"
   navbar:

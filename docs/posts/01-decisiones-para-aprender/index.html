@@ -69,6 +69,7 @@ ul.task-list li input[type="checkbox"] {
 <meta name="twitter:title" content="Blog - Tomar decisiones para aprender">
 <meta name="twitter:description" content="">
 <meta name="twitter:image" content="https://gera0220.github.io/posts/bienvenida/image.jpg">
+<meta name="twitter:creator" content="@gera0220">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
@@ -400,7 +401,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/gera0220\.github\.io");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
