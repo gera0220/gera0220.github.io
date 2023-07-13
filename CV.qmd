@@ -25,14 +25,12 @@ Data Analyst Intern
 ### [Alsuper Web Scraper]{.smallcaps}
 
 -   Developed a web scraper using Selenium and BeautifulSoup.
--   It extracts name, regular price, offer price (if exists), quantity and other elements for each product.
-    Cleaned each field extracted.
+-   It extracts name, regular price, offer price (if exists), quantity and other elements for each product. Cleaned each field extracted.
 
 ### [Virtual Assistant with Voice Recognition]{.smallcaps}
 
 -   Feature extraction of audio files that feeds a neural network that recognizes the user through voice.
--   Voice assistant that uses Google API to improve speech-to-text.
-    Created an SQLite schema to store data of neural network, audio features and users preferences.
+-   Voice assistant that uses Google API to improve speech-to-text. Created an SQLite schema to store data of neural network, audio features and users preferences.
 
 ### [Predicting Scholar Dropout]{.smallcaps}
 
