@@ -1,1 +1,7 @@
+User-agent: Twitterbot
+Disallow:
+
+User-agent: *
+Disallow: /
+
 Sitemap: https://gera0220.github.io/about.html/sitemap.xml
