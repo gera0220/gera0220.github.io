@@ -2,7 +2,6 @@
 title: "Tomar decisiones para aprender"
 author: "Gerardo Pérez"
 date: "2023-07-08"
-draft: false
 image: "image.jpg"
 ---
 
