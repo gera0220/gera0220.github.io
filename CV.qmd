@@ -1,9 +1,3 @@
----
-website:
-  open-graph:
-    image: "https://gera0220.github.io/profile.jpg"
----
-
 # [Curriculum Vitae]{.smallcaps}
 
 ## [About Me]{.smallcaps}
