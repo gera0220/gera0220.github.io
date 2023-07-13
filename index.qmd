@@ -1,12 +1,21 @@
 ---
-title: "Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: false
-  sort-ui: false
-  filter-ui: false
-page-layout: full
-title-block-banner: true
+title: "Gerardo Pérez"
+image: "https://gera0220.github.io/profile.jpg"
+website:
+  open-graph:
+    image: "https://gera0220.github.io/profile.jpg"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/gera0220
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/gera0220/
+    - icon: github
+      text: Github
+      href: https://github.com/gera0220
 ---
+
+I'm a Math Engineer based in Chihuahua, Mexico. I thrive on challenging myself and continuously expanding my knowledge. As a passionate data enthusiast, I am constantly seeking opportunities to learn and explore new concepts in this field.

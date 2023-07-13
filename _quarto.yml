@@ -3,16 +3,16 @@ project:
   output-dir: docs
 
 website:
-  site-url: "https://gera0220.github.io" 
+  site-url: "https://gera0220.github.io/about.html" 
   open-graph:
     image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
   twitter-card:
     creator: "@gera0220"
     image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
-  title: "Blog"
+  title: "Gerardo Pérez"
   navbar:
     right:
-      - about.qmd
+      - blog.qmd
       - icon: github
         href: https://github.com/gera0220
       - icon: twitter
