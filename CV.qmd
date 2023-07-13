@@ -7,7 +7,7 @@ website:
 
 ## [About Me]{.smallcaps}
 
-As a data enthusiast with a strong foundation in mathematics, I have successfully executed various projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis.
+As a data enthusiast with a strong foundation in mathematics, I have successfully executed multiple projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis.
 
 ## [Work Experience]{.smallcaps}
 
