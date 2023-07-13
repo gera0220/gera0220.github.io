@@ -64,7 +64,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="../../styles.css">
 <meta property="og:title" content="Gerardo Pérez - Tomar decisiones para aprender">
 <meta property="og:description" content="">
-<meta property="og:image" content="https://gera0220.github.io/posts/bienvenida/image.jpg">
+<meta property="og:image" content="https://gera0220.github.io/posts/01-decisiones-para-aprender/galaxia_cool.jpg">
 <meta property="og:site-name" content="Gerardo Pérez">
 <meta name="twitter:title" content="Gerardo Pérez - Tomar decisiones para aprender">
 <meta name="twitter:description" content="">
@@ -95,7 +95,7 @@ ul.task-list li input[type="checkbox"] {
  <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../../cv.html" rel="" target="">
+    <a class="nav-link" href="../../CV.html" rel="" target="">
  <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item compact">
@@ -405,7 +405,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
-      var filterRegex = new RegExp("https:\/\/gera0220\.github\.io\/about\.html");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href);
     }
