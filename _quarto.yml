@@ -2,6 +2,7 @@ project:
   type: website
   output-dir: docs
 
+link-external-newwindow: true
 website:
   repo-url: "https://github.com/gera0220/gera0220.github.io"
   open-graph: true
