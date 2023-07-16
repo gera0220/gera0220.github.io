@@ -2,7 +2,9 @@
 title: "CV"
 website:
   open-graph:
-    image: "https://gera0220.github.io/profile.jpg"
+    image: "profile.jpg"
+  twitter-card:
+    card-style: summary
 ---
 
 ## [About Me]{.smallcaps}

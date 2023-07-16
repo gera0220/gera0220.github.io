@@ -1,10 +1,9 @@
 ---
 title: "Gerardo Pérez"
-image: "https://gera0220.github.io/profile.jpg"
+image: "profile.jpg"
 website:
-  open-graph:
-    image: "https://gera0220.github.io/profile.jpg"
-    description: "I’m a Math Engineer based in Chihuahua, Mexico. I thrive on challenging myself and continuously expanding my knowledge. As a passionate data enthusiast, I am constantly seeking opportunities to learn and explore new concepts in this field."
+  twitter-card:
+    card-style: summary
 about:
   template: jolla
   links:

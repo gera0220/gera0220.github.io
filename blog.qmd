@@ -1,5 +1,6 @@
 ---
 title: "Blog"
+image: "posts/bienvenida/image.jpg"
 listing:
   contents: posts
   sort: "date desc"

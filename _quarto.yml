@@ -4,11 +4,9 @@ project:
 
 website:
   repo-url: "https://github.com/gera0220/gera0220.github.io"
-  open-graph:
-    image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
+  open-graph: true
   twitter-card:
     creator: "@gera0220"
-    image: "https://gera0220.github.io/posts/bienvenida/image.jpg"
     card-style: summary_large_image
   title: "Gerardo Pérez"
   site-url: "https://gera0220.github.io/"
