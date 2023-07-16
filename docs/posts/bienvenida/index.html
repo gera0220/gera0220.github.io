@@ -108,6 +108,11 @@ ul.task-list li input[type="checkbox"] {
 </i> 
  <span class="menu-text"></span></a>
   </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://www.linkedin.com/in/gera0220" rel="" target=""><i class="bi bi-linkedin" role="img">
+</i> 
+ <span class="menu-text"></span></a>
+  </li>  
 </ul>
             <div class="quarto-navbar-tools">
 </div>
@@ -156,7 +161,7 @@ ul.task-list li input[type="checkbox"] {
 
 <p>Una (no tan) breve historia de quién soy y por qué deberías leerme.</p>
 <hr>
-<p>Si decides que sólo quieres saber lo importante, puedes saltar para <a href="https://gera0220.github.io/posts/bienvenida/#por-qu%C3%A9-deber%C3%ADas-leer-esto">acá</a>.</p>
+<p>Si decides que sólo quieres saber lo importante, puedes saltar para <a href="#por-qu%C3%A9-deber%C3%ADas-leer-esto">acá</a>.</p>
 <section id="quién-soy-de-dónde-salí" class="level2">
 <h2 class="anchored" data-anchor-id="quién-soy-de-dónde-salí">¿Quién soy? ¿De dónde salí?</h2>
 <p>Hola, soy Gerardo Pérez. Un pasante de ingeniería matemática, al menos hasta que el papel que dice lo contrario llegue, con mucho cariño por toda el área de datos. Remontándome algunos años atrás, en la prepa para ser más precisos, llegó un punto en el que tenía que escoger una capacitación. Escogí contabilidad. Yo sé, esto ya suena mal, pero la cosa mejora un poco. Para mi poca fortuna decidieron que quedaría mejor en programación. Tras un largo rato de súplicas, me cambiaron a contabilidad.</p>
@@ -418,6 +423,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp("https:\/\/gera0220\.github\.io\/");
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->

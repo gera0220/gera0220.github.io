@@ -9,7 +9,7 @@ Una (no tan) breve historia de quién soy y por qué deberías leerme.
 
 ------------------------------------------------------------------------
 
-Si decides que sólo quieres saber lo importante, puedes saltar para [acá](https://gera0220.github.io/posts/bienvenida/#por-qu%C3%A9-deber%C3%ADas-leer-esto).
+Si decides que sólo quieres saber lo importante, puedes saltar para [acá](#por-qu%C3%A9-deber%C3%ADas-leer-esto).
 
 ## ¿Quién soy? ¿De dónde salí?
 
