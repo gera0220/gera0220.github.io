@@ -1,0 +1,22 @@
+---
+title: "Por definir"
+author: "Gerardo Pérez"
+date: "2023-07-17"
+draft: true
+---
+
+La parte difícil de aprender algo suele ser empezar, en este caso no sólo fue eso.
+
+------------------------------------------------------------------------
+
+Bueno, me decanté por aprender Spark, al final de cuentas. ¿La razón? Bueno, honestamente para esta ocasión me incliné por *lo que buscan las empresas*. Dado que al momento de escribir esto aún no tengo empleo, mi interés sin duda es ser atractivo para las empresas a las que aplico y sin duda, más de una vez me han preguntado si he manejado Spark.
+
+El principal problema que tuve tras definir que Spark sería mi objeto de estudio fue por dónde empezar. Tengo cierta idea, en un sentido bastante general, al momento de aprender algo: los cursos en línea sirven para lo básico, los libros y la práctica para todo lo demás. ¿Habrá sus excepciones? Probablemente, pero es algo que me ha funcionado.
+
+Dicho esto, lo primero que hice fue buscar "Spark Courses"[^1]. Para mi sorpresa, ni siquiera había tanta variedad como esperaba. Por otro lado, la mayoría se centraba en Spark Spark, es decir, con Scala y aunque creo que debe ser útil saber de Scala para un nivel más avanzado, yo no estoy en ese nivel. Yo necesitaba aprender PySpark para mi propósito. Al final terminé entrando a uno de Udemy pero terminé dejándolo. Es muy aburrido, al menos para mí, la idea de ver un video y correr el mínimo código posible. Me rendí con los cursos.
+
+[^1]: Sé que alguien me podrá juzgar, pero es una certeza que la mayor parte de la información la encontrarás en inglés.
+
+Puede ser que haya dejado los cursos porque no me gustaron o porque desde el inicio estaba inclinado hacia un libro. La última es más cierta. Empecé a leer [Data Analysis with Python and PySpark](https://a.co/d/aF8KBBy). Aunque aún no puedo hablar de la calidad del contenido, puesto que es mi primer aproximación al tema, lo que puedo decir es que es un libro que se siente muy llevadero. Sigue esa idea de tenemos un problema qué resolver y lo va desarrollando durante el libro, de manera que puedes ir jugando con el código a la par. También otra cosa que me gustó es que insiste mucho en revisar la documentación, lo cual considero esencial, y proporciona los enlaces correspondientes al tema en cuestión.
+
+El primer paso fue instalar PySpark.
