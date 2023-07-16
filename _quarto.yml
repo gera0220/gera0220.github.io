@@ -19,6 +19,8 @@ website:
         href: https://github.com/gera0220
       - icon: twitter
         href: https://twitter.com/gera0220
+      - icon: linkedin
+        href: https://www.linkedin.com/in/gera0220
 format:
   html:
     theme: cosmo
