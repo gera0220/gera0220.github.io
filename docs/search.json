@@ -114,43 +114,43 @@
   {
     "objectID": "CV.html",
     "href": "CV.html",
-    "title": "CV",
+    "title": "Gerardo Pérez",
     "section": "",
-    "text": "As a data enthusiast with a strong foundation in mathematics, I have successfully executed multiple projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis."
+    "text": "Analytics Engineer with passion for continuous learning and professional development with experience developing ETL and ELT pipelines with Python, dbt and Dagster. Proficient in designing and implementing Power BI dashboards to translate data into valuable insights. Proactive and receptive, I’m always open to feedback to improve my skills and deliver exceptional results.\n\n\n\n\nEcosat\n\nDesign and develop interactive Power BI dashboards utilizing data sourced from sensors and applications, visualizing large volumes of data providing actionable insights to stakeholders.\nImplemented an ELT pipeline leveraging Python, Airbyte, dbt, and Dagster within a Docker container, resulting in a remarkable 70% reduction in processing time. This ensured data accuracy and consistency while accelerating decision-making across organizations.\nUtilize data modeling techniques to effectively structure and optimize data for analysis, improving the understanding of complex datasets.\nCollaborate with stakeholders to understand business needs and deliver quality solutions.\n\n\n\n\nDigital Public Innovation Agency\n\nDeveloped R scripts to standardize and clean databases, ensuring consistency across rows and columns to maintain uniformity across various formats and spellings.\nImplemented data cleaning techniques with Tidyverse to enhance data quality and accuracy.\nEstablished and maintained a GitHub repository for open data initiatives, facilitating collaboration among team members and external contributors.\n\n\n\n\n\n\n\n\nDeveloped a web scraper with Selenium and BeautifulSoup, which extracts name, regular price, offer price, quantity and other elements for products currently on sale, then store them as Parquet files.\n\n\n\n\n\n\n\n\nMath Engineering\nOverall Score: 9.2\n\n\n\n\n\nTechnical Skills: Python, SQL, dbt, Dagster, Power BI, R, Docker\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight Lifting"
   },
   {
     "objectID": "CV.html#about-me",
     "href": "CV.html#about-me",
-    "title": "CV",
+    "title": "Gerardo Pérez",
     "section": "",
-    "text": "As a data enthusiast with a strong foundation in mathematics, I have successfully executed multiple projects both independently and in collaboration with teams. I thrive on taking on challenges and have an unwavering commitment to achieving my goals. Whether faced with a complex problem or a knowledge gap, I am resourceful in my approach and dedicated to finding the best solution. With a passion for continuous learning, I am always eager to expand my skill set and stay ahead of the curve in the rapidly-evolving field of data analysis."
+    "text": "Analytics Engineer with passion for continuous learning and professional development with experience developing ETL and ELT pipelines with Python, dbt and Dagster. Proficient in designing and implementing Power BI dashboards to translate data into valuable insights. Proactive and receptive, I’m always open to feedback to improve my skills and deliver exceptional results.\n\n\n\n\nEcosat\n\nDesign and develop interactive Power BI dashboards utilizing data sourced from sensors and applications, visualizing large volumes of data providing actionable insights to stakeholders.\nImplemented an ELT pipeline leveraging Python, Airbyte, dbt, and Dagster within a Docker container, resulting in a remarkable 70% reduction in processing time. This ensured data accuracy and consistency while accelerating decision-making across organizations.\nUtilize data modeling techniques to effectively structure and optimize data for analysis, improving the understanding of complex datasets.\nCollaborate with stakeholders to understand business needs and deliver quality solutions.\n\n\n\n\nDigital Public Innovation Agency\n\nDeveloped R scripts to standardize and clean databases, ensuring consistency across rows and columns to maintain uniformity across various formats and spellings.\nImplemented data cleaning techniques with Tidyverse to enhance data quality and accuracy.\nEstablished and maintained a GitHub repository for open data initiatives, facilitating collaboration among team members and external contributors.\n\n\n\n\n\n\n\n\nDeveloped a web scraper with Selenium and BeautifulSoup, which extracts name, regular price, offer price, quantity and other elements for products currently on sale, then store them as Parquet files.\n\n\n\n\n\n\n\n\nMath Engineering\nOverall Score: 9.2\n\n\n\n\n\nTechnical Skills: Python, SQL, dbt, Dagster, Power BI, R, Docker\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight Lifting"
   },
   {
     "objectID": "CV.html#work-experience",
     "href": "CV.html#work-experience",
-    "title": "CV",
-    "section": "Work Experience",
-    "text": "Work Experience\n\nAccenture\nApplication Developer\n\nI built web pages using Power Apps Portals and HTML.\nI designed mobile applications using Canvas App that, together with Power Automate, made the daily life of the clients easier.\n\n\n\nDigital Public Innovation Agency\nData Analyst Intern\n\nI developed cleaning algorithms for databases using R.\nI designed Github repositories for information exchange."
+    "title": "Gerardo Pérez",
+    "section": "",
+    "text": "Ecosat\n\nDesign and develop interactive Power BI dashboards utilizing data sourced from sensors and applications, visualizing large volumes of data providing actionable insights to stakeholders.\nImplemented an ELT pipeline leveraging Python, Airbyte, dbt, and Dagster within a Docker container, resulting in a remarkable 70% reduction in processing time. This ensured data accuracy and consistency while accelerating decision-making across organizations.\nUtilize data modeling techniques to effectively structure and optimize data for analysis, improving the understanding of complex datasets.\nCollaborate with stakeholders to understand business needs and deliver quality solutions.\n\n\n\n\nDigital Public Innovation Agency\n\nDeveloped R scripts to standardize and clean databases, ensuring consistency across rows and columns to maintain uniformity across various formats and spellings.\nImplemented data cleaning techniques with Tidyverse to enhance data quality and accuracy.\nEstablished and maintained a GitHub repository for open data initiatives, facilitating collaboration among team members and external contributors."
   },
   {
     "objectID": "CV.html#projects",
     "href": "CV.html#projects",
-    "title": "CV",
-    "section": "Projects",
-    "text": "Projects\n\nAlsuper Web Scraper\n\nDeveloped a web scraper using Selenium and BeautifulSoup.\nIt extracts name, regular price, offer price (if exists), quantity and other elements for each product. Cleaned each field extracted.\n\n\n\nVirtual Assistant with Voice Recognition\n\nFeature extraction of audio files that feeds a neural network that recognizes the user through voice.\nVoice assistant that uses Google API to improve speech-to-text. Created an SQLite schema to store data of neural network, audio features and users preferences.\n\n\n\nPredicting Scholar Dropout\n\nI supported a project that pretended predict scholar dropout by using deep learning algorithms in Python.\n\n\n\nElectrical Potential in Eccentric Capacitors\n\nCreated an algorithm in C able to make transform two eccentric capacitors into a plate by a Mobius transformation for an easier analysis.\nUsing R, I made a heatmap of the plate obtained in the previous step."
+    "title": "Gerardo Pérez",
+    "section": "",
+    "text": "Developed a web scraper with Selenium and BeautifulSoup, which extracts name, regular price, offer price, quantity and other elements for products currently on sale, then store them as Parquet files."
   },
   {
     "objectID": "CV.html#education",
     "href": "CV.html#education",
-    "title": "CV",
-    "section": "Education",
-    "text": "Education\n\nAutonomous University of Chihuahua\n\nBachelor of Mathematics (Math Engineering)\nCumulative Average: 9.2"
+    "title": "Gerardo Pérez",
+    "section": "",
+    "text": "Math Engineering\nOverall Score: 9.2"
   },
   {
     "objectID": "CV.html#skills-and-interests",
     "href": "CV.html#skills-and-interests",
-    "title": "CV",
-    "section": "Skills And Interests",
-    "text": "Skills And Interests\nTechnical Skills: Python, R, SQL, Git\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight training, Traveling"
+    "title": "Gerardo Pérez",
+    "section": "",
+    "text": "Technical Skills: Python, SQL, dbt, Dagster, Power BI, R, Docker\nLanguages: Spanish; English\nInterests: Reading, Soccer, Weight Lifting"
   }
 ]
