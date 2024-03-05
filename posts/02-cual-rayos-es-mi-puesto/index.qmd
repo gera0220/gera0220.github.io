@@ -1,0 +1,40 @@
+---
+title: "No tengo idea de cuál es mi puesto"
+author: "Gerardo Pérez"
+date: "2023-11-09"
+draft: true
+---
+
+Hola, me presento. Soy Gerardo, data... eh, algo.
+
+Vaya, sin duda las cosas no salieron como creí cuando decidí animarme a escribir un blog. ¿La buena noticia? La razón es buena: conseguí un trabajo. ¿La mala? Quizá sólo me estoy engañando y he tenido tiempo de sobra para escribir.
+
+## Conseguí un trabajo
+
+Quería escribir de esto desde el momento en que lo conseguí, pero decidí esperar hasta que todo fuera un poco más seguro... Claro que esto sucedió hace ya casi 4 meses, quizá después del primer mes lo podría llamar procrastinación. En fin. Conseguí un trabajo como analista de datos.
+
+Cuando decidí escribir un blog lo hice pensando en retratar el proceso para conseguir un empleo y compartir lo desgastante que suele ser el proceso de conseguir el primer empleo: enviar CVs por montón, aplicar a decenas (realmente cientas) de vacantes, tener bastantes menos entrevistas y posteriormente esperar semanas por una respuesta. Una respuesta que seguido no llega. De forma algo irónica me contactaron para este trabajo un par de días luego del primer post. Pero eso no quita que todo el tiempo anterior a eso fue bastante espantoso, pero con suerte eso será un post diferente... Eventualmente.
+
+Como ya dije, me contrataron como analista de datos. Entré a la oficina y me presentaron al que sería mi mejor amigo por un tiempo, aparentemente: Power BI. En mi vida había tocado Power BI por más de 10 minutos seguidos. Sabía cómo usarlo en su forma más básica porque en un trabajo anterior, en un onboarding, tuve que hacer algunas cosas con él. Fuera de eso, Power BI era totalmente desconocido para mí.
+
+Los primeros días fueron bastante complicados. Llegué en un momento de paz a la empresa, por lo que realmente no tenía tareas asignadas, sino que debía enfocarme en familiarizarme lo más posible con Power BI. Me puse a ver cursos, leer blogs, hacer ejercicios y demás, pero probablemente pienses lo mismo que yo: qué tremenda flojera. Leer blogs me es divertido, los veo como la mejor forma de aprender, pero ver cursos y hacer ejercicios se vuelve tremendamente tedioso luego de un rato. Llegué a un punto muerto. No había forma de que siguiera aprendiendo si me quedaba en ver cursos. Me sentía como hacía un par de semanas: sin tener idea de qué estudiar y si lo que estaba estudiando realmente era útil para un día a día laboral.
+
+Eventualmente la situación cambió. Descubrí que teníamos una base de datos. Claramente era obvio que tendríamos una base de datos, sólo que en el momento no me había pasado ni por la cabeza. De hecho no entendía en lo absoluto qué trataba de hacer mi compañero. Lo veía batallando con ella pero simplemente no entendía qué quería lograr. Escuché la palabra warehouse cientas de veces esa semana, sin la menor de las dudas. No me hacía sentido eso. Estoy seguro que no era la primera vez que escuchaba el término, pero era la primera vez que decidía que me tenía que importar qué era.
+
+A partir de ese momento comencé a meterme más hacia ese lado. Hacer queries hacia una base de datos real y no un excel con datos perfectos era bastante más divertido. Entendía que había un propósito detrás de esos queries: crear una warehouse. No tenía la menor idea de qué significaba eso, mucho menos cómo hacerla, pero al menos había un objetivo real.
+
+## ¿Qué rayos estoy haciendo?
+
+Comencé a adentrarme mucho en el tema de la warehouse. Ese es un momento clave. Cuando aplicaba a roles de datos yo esperaba conseguir un trabajo de ingeniero de datos. No estoy del todo seguro por qué. Ni siquiera estaba totalmente seguro de qué hacía un ingeniero de datos, pero en mi búsqueda de lo que era una warehouse el término data engineer salía por todos lados. Entendía que por ahí había algo que me interesaba.
+
+Conforme pasó el tiempo me familiaricé con la base de datos y entendí, eventualmente, que una warehouse no era mas que una base de datos que tenía los datos originales acomodados de forma distinta, de manera que al yo ver una tabla pudiera entender el panorama general sin tener que estar buscando otras tablas para entenderlas. Es decir, pasar de esto:
+
+![](OLTP.png){fig-align="center" width="419"}
+
+A esto:
+
+![](DWH.png){fig-align="center" width="508"}
+
+Siendo muy justos esto no es una Warehouse. En lo absoluto. Pero creo que ejemplifica bien que se busca, en gran parte, ordenar los datos para que realizar un análisis sea más sencillo. No es nada de otro mundo.
+
+Trabajar con esa base de datos fue un gran reto. Una base de datos, proveniente de los datos recopilados de algún tipo de aplicación o similar, es sumamente distinta a aquellas que te encuentras en cursos o en la misma universidad.
