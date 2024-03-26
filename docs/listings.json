@@ -2,6 +2,7 @@
   {
     "listing": "/blog.html",
     "items": [
+      "/posts/04-todo-es-un-dashboard/index.html",
       "/posts/01-decisiones-para-aprender/index.html",
       "/posts/bienvenida/index.html"
     ]

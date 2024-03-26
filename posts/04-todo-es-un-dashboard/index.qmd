@@ -1,0 +1,33 @@
+---
+title: "No puedes escapar de los dashboards"
+
+author: "Gerardo Pérez"
+
+date: "2024-03-18"
+
+image: "night-sky-glows-with-iridescent-deep-space-generative-ai (1).jpg"
+
+draft: false
+---
+
+Todo se resume a un dashboard (o en un dashboard)
+
+------------------------------------------------------------------------
+
+El día empezó de buena forma. Había dormido bien, me desperté sin molestias y a una buena hora para llegar a tiempo al trabajo. Aquí acaba el buen ritmo. Al intentar meterme a bañar, resulta que mi roomie también tenía contemplada la idea de bañarse temprano, por lo que tuve que esperar a que saliera de bañarse.
+
+7:50. Aparentemente las personas duran mucho bañándose. Nuevamente llego tarde al trabajo. No es que les moleste a los demás que llegue un par de minutos tarde, pero sin duda no quisiera dar motivos para que no me den un aumento o un regaño cuando realmente necesite llegar tarde.
+
+Empieza mi día. El inicio del día lo destiné, como casi siempre, a leer sobre algún tema del área de datos. El elegido fue un post sobre [cómo estar en el área de datos era parecido a orquestar un esquema Ponzi](https://benn.substack.com/p/disband-the-analytics-team). Nada alentador para mi carrera, sin la menor duda. Tomé la decisión de leer cualquier otra cosa que sonara mejor. Comencé a leer un post llamado [Data is for dashboards](https://benn.substack.com/p/data-is-for-dashboards) , quiero decir, mi trabajo consiste en buena parte en realizar dashboards. Naturalmente me llamó la atención:
+
+> On dashboards, the consensus is universal: They're bad.
+
+Dios mío. El día no pinta bien.
+
+Tras un rato de beber café y resolver problemas mínimos tomé la decisión de continuar con un PoC de una librería que se encarga de la parte de la [extracción y carga de datos](https://dlthub.com/). La tarea era simple: mover datos de una base de datos relacional a otra. Al cabo de un rato me di cuenta que la fuente que estaba utilizando tenía un problema con la carga incremental, indagué en Slack y alguien más había tenido un problema similar y solucionó su problema de una forma alterna. No me agradaba la solución así que pregunté si de momento era la forma de realizarlo. Tras un tiempo de preguntas y respuestas me decidí a intentar resolver el problema. Al comenzar a indagar en la librería uno de mis compañeros me dijo que ya estaba lista la información que necesitaba para realizar el demo de un cliente. Por supuesto: un dashboard.
+
+Para ser honestos, estaba feliz de hacerlo. La mejor parte (y la peor, mayormente) de hacer el demo de un dashboard desde cero es que puedes moldearlo a tu gusto, al menos en buena parte. Por supuesto, una de las partes malas es el diseñarlo. Escoger colores es un dolor de cabeza. Me pidieron utilizar una paleta de colores ya existente: bien por mí. El problema ya sólo era definir qué mostrar y cómo.
+
+Al terminarlo quedé extrañamente satisfecho. No todos los dashboards tienen que ser pésimos. Sin duda buena parte de ellos lo son, pero cuando se tiene bien definido lo que se quiere observar y cuando se es capaz de comprender lo que se está viendo, los dashboards son maravillosos. Por supuesto que tener un dashboard entero para cada métrica de la empresa no es una buena idea, pero fuera de eso son de gran ayuda.
+
+Por otro lado, si el área de datos es un esquema Ponzi... Bueno, no concuerdo. Sin duda existen aquellas personas que forman parte del área y alegan que pueden conseguir explicar y predecir hasta el más mínimo cambio dentro de una empresa, pero sencillamente estamos hablando de charlatanes como los hay en todas las áreas. Al final de cuentas si eres bueno en lo que haces vas a prevalecer. Y si no, bueno, suerte.
