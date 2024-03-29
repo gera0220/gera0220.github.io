@@ -1,0 +1,31 @@
+---
+title: "Sentir la necesidad de contribuir"
+
+author: "Gerardo Pérez"
+
+date: "2024-03-28"
+
+image: "image.jpg"
+
+draft: false
+---
+
+Esto es una nota rápida sobre mi humillación en mi intento de contribuir a algo.
+
+------------------------------------------------------------------------
+
+Estando en el trabajo continué con mi intento de utilizar la librería de [dlt](https://dlthub.com/) para encargarme de la extracción y carga de mis pipelines. Ayer me di cuenta, o al menos eso creí, de un error en la ejecución del pipeline. El error consistía en que, a pesar de que establecía que mi pipeline debía funcionar de forma incremental, la extracción traía todos los registros existentes, lo cual se volvía excesivamente lento.
+
+Bueno, abordé este problema a través del Slack de dlt. Me respondieron y para mi sorpresa una de las personas que sigo en el área de Ingeniería de Datos, [Simon Späti](https://x.com/sspaeti), mencionó tener un problema similar. Tras una breve explicación de la situación a las personas de dlt me comentaron que podría abrir un reporte de bug en github para darle atención, en este momento fue cuando ya no me sentí seguro de si lo que decía era verdad o no, porque ahora mi problema era que, además de lo ya mencionado, cuando establecía que quería que se hiciera un merge (upsert) entre los datos nuevos y los existentes, la acción que se tomaba era un replace con los datos nuevos únicamente, por lo que mencioné que le daría una revisada antes de hacerlo.
+
+En el trabajo no tuve más tiempo de checarlo, puesto que tenía cosas de mayor necesidad e inmediatez, así que cuando llegué a mi casa me senté a reproducir mi problema para poder corroborar si lo que decía era cierto o no y poder levantar el issue. Dado que no tenía descargado SQL Server tuve que descargar la imagen y mi internet no estaba cooperando, así que para cuando terminé de levantar mi base de datos tenía que irme al gimnasio.
+
+Al volver me dispuse a continuar. En efecto, estaba en lo correcto. La librería estaba haciendo un replace con los datos nuevos. Comencé a redactar el issue, haciendo todo tan reproducible como me fuese posible, pero llegó un punto de duda sobre algo, así que lo pregunté en Slack. De pronto me dio curiosidad por leer la documentación sobre el modelo incremental. La documentación claramente dice
+
+> The `merge` write disposition loads data to a `staging` dataset, deduplicates the staging data if a `primary_key` is provided, deletes the data from the destination using `merge_key` and `primary_key`, and then inserts the new records.
+
+La misma `primary_key` que nunca definí. Y no es que no hubiera leído la documentación, simplemente decidí ignorar ese punto, aparentemente. Mi cerebro me la jugó.
+
+Al darme cuenta, borré mi mensaje de Slack para evitar un extra de humillación. Ahora sólo me resta un problema: la librería extrae todos los datos a pesar de que el método de consulta es incremental. Con suerte en esta ocasión el problema si existe en la librería y no en mí. El lado bueno es que, si estoy en lo correcto podré sentir que "contribuí", aunque siendo justos sólo habría detectado un problema que seguramente alguien más ya detectó pero no mencionó. De lo contrario, si todo funciona como debería, al menos ya puedo ponerme a trabajar.
+
+Releyendo todo esto puedo aceptar: ok, sin duda exageré. No es ni por cerca una gran humillación, ni siquiera es lo más humillante que me ha sucedido en la semana, probablemente. A decir verdad, ni siquiera es lo más humillante que me ha pasado relacionado a dlt. Pero qué más da.
